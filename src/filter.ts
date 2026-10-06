@@ -5,15 +5,22 @@ function anyTerm(haystack: string, terms: string[]): boolean {
   return terms.some((t) => t.trim() !== "" && containsTerm(haystack, t));
 }
 
+function normalizeRegion(value: string): string {
+  return value.toLowerCase().replace(/\./g, "").replace(/[^a-z0-9]+/g, " ").trim();
+}
+
+function anyRegion(location: string, terms: string[]): boolean {
+  return anyTerm(normalizeRegion(location), terms.map(normalizeRegion));
+}
+
 /** True when a remote posting's region restriction (if any) is acceptable. */
 export function remoteRegionAllowed(location: string, criteria: Criteria): boolean {
   const residue = location
     .toLowerCase()
     .replace(/\b(fully |100% )?remote\b/g, " ")
-    .replace(/[^a-z0-9.#]+/g, " ")
     .trim();
-  if (residue === "") return true;
-  return anyTerm(residue, criteria.remoteRegions) || anyTerm(residue, criteria.locations);
+  if (normalizeRegion(residue) === "") return true;
+  return anyRegion(residue, criteria.remoteRegions) || anyRegion(residue, criteria.locations);
 }
 
 /** False when the posting's source date is more than `maxAgeDays` before `date`. Undated postings pass. */
@@ -29,5 +36,5 @@ export function matchesCriteria(p: Posting, criteria: Criteria): boolean {
   const searchable = `${p.title} ${p.tags.join(" ")}`;
   if (!anyTerm(searchable, criteria.keywords)) return false;
   if (p.remote) return remoteRegionAllowed(p.location, criteria);
-  return anyTerm(p.location, criteria.locations);
+  return anyRegion(p.location, criteria.locations);
 }

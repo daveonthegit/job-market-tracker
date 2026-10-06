@@ -143,6 +143,9 @@ Matching is case-insensitive on whole terms, so `node` matches "Node.js" but
   fetched.
 - The company list is a small hand-picked set, not the whole market.
 - HN parsing is heuristic.
+- Aliases of postings dropped as duplicates are not persisted. Rarely, an
+  aggregator copy dropped on one day can reappear as new on a later day if
+  its title changes.
 
 ## License
 

@@ -32,6 +32,21 @@ describe("matchesCriteria", () => {
     assert.ok(!matchesCriteria(posting({ location: "Berlin, Germany" }), criteria));
   });
 
+  it("accepts punctuated US variants under the default criteria", () => {
+    for (const region of ["U.S.", "U.S", "U.S.A.", "US", "USA"]) {
+      assert.ok(matchesCriteria(posting({ remote: true, location: `Remote - ${region}` }), criteria), region);
+      assert.ok(matchesCriteria(posting({ location: region }), criteria), region);
+    }
+  });
+
+  it("normalizes configured regions and locations consistently without partial matches", () => {
+    const punctuated = { ...criteria, remoteRegions: ["U.S."], locations: ["U.S."] };
+    assert.ok(matchesCriteria(posting({ remote: true, location: "Remote (US)" }), punctuated));
+    assert.ok(matchesCriteria(posting({ location: "US" }), punctuated));
+    assert.ok(!matchesCriteria(posting({ remote: true, location: "Remote - Australia" }), punctuated));
+    assert.ok(!remoteRegionAllowed("Remote - Germany", { ...criteria, remoteRegions: ["..."], locations: [] }));
+  });
+
   it("accepts remote roles open to the US or unrestricted, rejects other regions", () => {
     assert.ok(remoteRegionAllowed("Remote", criteria));
     assert.ok(remoteRegionAllowed("Remote - United States", criteria));
