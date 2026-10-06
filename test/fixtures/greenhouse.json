@@ -1,0 +1,29 @@
+{
+  "jobs": [
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/acme/jobs/1001",
+      "location": { "name": "Remote - United States" },
+      "id": 1001,
+      "updated_at": "2026-09-24T13:34:54-04:00",
+      "title": "Senior Full Stack Engineer",
+      "company_name": "Acme",
+      "first_published": "2026-09-20T12:00:00-04:00"
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/acme/jobs/1002",
+      "location": { "name": "Hybrid - London" },
+      "id": 1002,
+      "updated_at": "2026-09-25T10:00:00-04:00",
+      "title": "Account Executive, Commercial",
+      "company_name": "Acme",
+      "first_published": null
+    },
+    {
+      "absolute_url": "",
+      "location": { "name": "Nowhere" },
+      "id": 1003,
+      "title": "Posting without a URL"
+    }
+  ],
+  "meta": { "total": 3 }
+}

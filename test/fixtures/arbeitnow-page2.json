@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "slug": "node-developer-3",
+      "company_name": "Vandelay",
+      "title": "Node Developer",
+      "remote": false,
+      "url": "https://www.arbeitnow.com/jobs/companies/vandelay/node-developer-3",
+      "tags": [],
+      "location": "Munich",
+      "created_at": 1791200000
+    }
+  ],
+  "links": { "next": null },
+  "meta": { "current_page": 2 }
+}

@@ -1,0 +1,53 @@
+# Records one snapshot of new job postings per day and commits it to main.
+# Data commits are made by this workflow, authored as the repo owner, using the
+# default GITHUB_TOKEN (no personal access token or other secret).
+name: Daily snapshot
+
+on:
+  schedule:
+    - cron: "23 13 * * *" # 13:23 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    # Only ever record data on the default branch.
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      # Fails (and the job stops, committing nothing) if any source errors.
+      - name: Fetch today's postings
+        id: snapshot
+        run: npm run snapshot
+
+      - name: Commit snapshot
+        env:
+          SNAPSHOT_DATE: ${{ steps.snapshot.outputs.date }}
+          NEW_COUNT: ${{ steps.snapshot.outputs.new_count }}
+        run: |
+          git config user.name "daveonthegit"
+          git config user.email "114205178+daveonthegit@users.noreply.github.com"
+          git add data SUMMARY.md README.md
+          if git diff --cached --quiet; then
+            echo "Snapshot for $SNAPSHOT_DATE is identical to the committed one; nothing to commit."
+            exit 0
+          fi
+          git commit -m "data: job snapshot $SNAPSHOT_DATE ($NEW_COUNT new postings)"
+          git pull --rebase origin main
+          git push origin HEAD:main

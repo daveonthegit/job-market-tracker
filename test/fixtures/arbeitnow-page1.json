@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "slug": "senior-react-developer-berlin-1",
+      "company_name": "Umbrella GmbH",
+      "title": "Senior React Developer (m/w/d)",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/umbrella/senior-react-developer-berlin-1",
+      "tags": ["Software Development"],
+      "location": "Berlin",
+      "created_at": 1791291662
+    },
+    {
+      "slug": "fullstack-engineer-remote-2",
+      "company_name": "Hooli",
+      "title": "Fullstack Engineer",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/hooli/fullstack-engineer-remote-2",
+      "tags": [],
+      "location": "Remote",
+      "created_at": 1791291000
+    }
+  ],
+  "links": { "next": "https://www.arbeitnow.com/api/job-board-api?page=2" },
+  "meta": { "current_page": 1 }
+}
