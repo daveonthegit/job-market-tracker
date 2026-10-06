@@ -1,0 +1,18 @@
+[
+  {
+    "categories": { "commitment": "Full-time", "department": "Engineering", "location": "New York, NY", "team": "Web Platform" },
+    "createdAt": 1790000000000,
+    "id": "aaaaaaaa-1111-2222-3333-444444444444",
+    "text": "Software Engineer, Frontend",
+    "workplaceType": "onsite",
+    "hostedUrl": "https://jobs.lever.co/initech/aaaaaaaa-1111-2222-3333-444444444444"
+  },
+  {
+    "categories": { "location": "Anywhere" },
+    "createdAt": 1790000000000,
+    "id": "bbbbbbbb-1111-2222-3333-444444444444",
+    "text": "Backend Engineer",
+    "workplaceType": "remote",
+    "hostedUrl": "https://jobs.lever.co/initech/bbbbbbbb-1111-2222-3333-444444444444"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "$comment": "Search criteria for the daily snapshot. Generic role keywords only - no personal data.",
+  "maxAgeDays": 30,
+  "keywords": [
+    "full stack", "full-stack", "fullstack",
+    "software engineer", "software developer", "swe",
+    "frontend", "front-end", "front end",
+    "backend", "back-end", "back end",
+    "web developer", "web engineer", "product engineer", "application engineer",
+    "typescript", "javascript", "react", "node", "node.js", "next.js"
+  ],
+  "excludeKeywords": [
+    "intern", "internship", "recruiter", "sales", "account executive",
+    "director", "vp", "vice president", "head of", "manager"
+  ],
+  "locations": [
+    "united states", "usa", "us", "u.s.", "america",
+    "new york", "nyc", "san francisco", "sf", "bay area", "seattle", "austin",
+    "boston", "chicago", "los angeles", "denver", "atlanta"
+  ],
+  "remoteRegions": [
+    "", "worldwide", "anywhere", "global", "remote",
+    "united states", "usa", "us", "u.s.", "north america", "americas"
+  ],
+  "skills": [
+    "typescript", "javascript", "react", "node", "next.js", "vue", "angular", "svelte",
+    "python", "go", "golang", "java", "kotlin", "rust", "ruby", "rails", "php", "c#", ".net",
+    "aws", "gcp", "azure", "kubernetes", "docker", "terraform",
+    "postgres", "mysql", "mongodb", "redis", "graphql",
+    "ai", "ml", "llm"
+  ],
+  "sources": {
+    "remotive": { "enabled": true, "category": "software-dev" },
+    "arbeitnow": { "enabled": true, "maxPages": 3 },
+    "hn": { "enabled": true },
+    "greenhouse": {
+      "enabled": true,
+      "boards": ["vercel", "figma", "stripe", "discord", "gitlab", "cloudflare", "reddit", "dropbox", "duolingo", "asana", "robinhood", "datadog", "gusto", "webflow"]
+    },
+    "lever": { "enabled": true, "boards": ["spotify", "palantir", "outreach"] }
+  }
+}

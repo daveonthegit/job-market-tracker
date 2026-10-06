@@ -1,0 +1,26 @@
+{
+  "00-warning": "fixture",
+  "job-count": 2,
+  "jobs": [
+    {
+      "id": 501,
+      "url": "https://remotive.com/remote-jobs/software-development/typescript-developer-501",
+      "title": "TypeScript Developer",
+      "company_name": "Globex",
+      "category": "Software Development",
+      "tags": ["React", "Typescript ", "node.js"],
+      "job_type": "full_time",
+      "publication_date": "2026-10-05T05:15:43",
+      "candidate_required_location": "USA"
+    },
+    {
+      "id": 502,
+      "url": "https://remotive.com/remote-jobs/software-development/go-engineer-502",
+      "title": "Go Engineer",
+      "company_name": "Globex",
+      "tags": [],
+      "publication_date": "2026-10-04T09:00:00",
+      "candidate_required_location": "Germany"
+    }
+  ]
+}
