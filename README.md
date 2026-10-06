@@ -67,7 +67,8 @@ location and age filters; `new` is what remained after dedupe.
 
 All sources are free, need no API key, and are fetched once a day with a
 descriptive `User-Agent`, sequentially, with pauses between requests and
-retries with backoff on 429/5xx.
+retries with backoff on 429/5xx. `Retry-After` delta-seconds and HTTP dates are
+honored; a requested wait over 60 seconds fails the request instead of retrying early.
 
 | Source | Endpoint | Notes |
 | --- | --- | --- |
@@ -86,7 +87,10 @@ Ashby, Workday and anything behind a login are not used.
 2. Each enabled source is fetched (ATS boards first, so the employer's own
    posting wins over an aggregator copy). If **any** source errors, or returns
    no postings at all, the command exits non-zero and writes nothing. A partial
-   day would skew the trend, so the day is left as a gap instead.
+   day would skew the trend, so the day is left as a gap instead. No enabled
+   sources also fails without writing. Individual empty Greenhouse/Lever boards
+   warn on stderr but are legitimate; the combined feed for each enabled source
+   must still contain postings.
 3. Postings are normalized, filtered by keyword / exclusion / location / age,
    and deduplicated against each other and every earlier day.
 4. Today's file, `SUMMARY.md` and the README section are written. A successful
@@ -112,6 +116,7 @@ npm run snapshot -- --help
 ```
 
 Running `npm run snapshot` with no options writes into this checkout's `data/`.
+`--date` must be a real UTC calendar date and is validated before any fetch or write.
 
 ## Configuration
 

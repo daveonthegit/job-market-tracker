@@ -23,19 +23,23 @@ export class SourceError extends Error {}
 export async function fetchAll(http: FetchJson, criteria: Criteria, pauseMs = 500): Promise<SourceFetch[]> {
   const s = criteria.sources;
   const tasks: [SourceName, () => Promise<Posting[]>][] = [];
-  const boards = (fetchBoard: (h: FetchJson, b: string) => Promise<Posting[]>, list: string[]) => async () => {
+  const boards = (source: SourceName, fetchBoard: (h: FetchJson, b: string) => Promise<Posting[]>, list: string[]) => async () => {
     const out: Posting[] = [];
     for (const [i, board] of list.entries()) {
       if (i > 0) await sleep(pauseMs);
-      out.push(...(await fetchBoard(http, board)));
+      const postings = await fetchBoard(http, board);
+      if (postings.length === 0) console.error(`warning: ${source}/${board} returned 0 postings`);
+      out.push(...postings);
     }
     return out;
   };
-  if (s.greenhouse.enabled) tasks.push(["greenhouse", boards(fetchGreenhouse, s.greenhouse.boards)]);
-  if (s.lever.enabled) tasks.push(["lever", boards(fetchLever, s.lever.boards)]);
+  if (s.greenhouse.enabled) tasks.push(["greenhouse", boards("greenhouse", fetchGreenhouse, s.greenhouse.boards)]);
+  if (s.lever.enabled) tasks.push(["lever", boards("lever", fetchLever, s.lever.boards)]);
   if (s.remotive.enabled) tasks.push(["remotive", () => fetchRemotive(http, s.remotive.category)]);
   if (s.arbeitnow.enabled) tasks.push(["arbeitnow", () => fetchArbeitnow(http, s.arbeitnow.maxPages, pauseMs * 2)]);
   if (s.hn.enabled) tasks.push(["hn", () => fetchHn(http)]);
+
+  if (tasks.length === 0) throw new SourceError("no sources enabled");
 
   const results: SourceFetch[] = [];
   const errors: string[] = [];

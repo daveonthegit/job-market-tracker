@@ -35,8 +35,14 @@ export function createFetchJson(opts: HttpOptions = {}): FetchJson {
       if (res.ok) return res.json();
       lastError = new Error(`GET ${url} -> HTTP ${res.status}`);
       if (res.status !== 429 && res.status < 500) break;
-      const retryAfter = Number(res.headers.get("retry-after"));
-      if (Number.isFinite(retryAfter) && retryAfter > 0) await sleep(Math.min(retryAfter, 60) * 1000);
+      const header = res.headers.get("retry-after");
+      const retryAfterMs = header === null ? 0 : /^\d+$/.test(header.trim())
+        ? Number(header) * 1000
+        : Math.max(0, Date.parse(header) - Date.now());
+      if (retryAfterMs > 60_000) {
+        throw new Error(`GET ${url} -> HTTP ${res.status}: Retry-After exceeds 60s wait budget`);
+      }
+      if (attempt < retries && Number.isFinite(retryAfterMs) && retryAfterMs > 0) await sleep(retryAfterMs);
     }
     throw lastError;
   };

@@ -4,7 +4,7 @@ This file is the project's committed home for project-intrinsic agent knowledge:
 
 - Checks: `npm run lint`, `npm run typecheck`, `npm test` (Node's built-in runner; TS runs via Node type stripping, so imports use `.ts` extensions and only erasable TS syntax is allowed).
 - Tests must stay offline: `test/helpers.ts` replaces `fetch` with a rejecting stub. Source parsers are pure (`parseX(raw)`) and tested against synthetic fixtures in `test/fixtures/`; network goes through the injected `FetchJson` from `src/http.ts`.
-- Run semantics are a public promise in README.md: any source error or empty feed fails the run and writes nothing; a successful 0-new day is still recorded. Keep code, README and `.github/workflows/daily.yml` in agreement when changing this.
+- Run semantics are a public promise in README.md: any source error, empty combined source feed, or no enabled sources fails the run and writes nothing; individual empty Greenhouse/Lever boards warn on stderr. A successful 0-new day is still recorded. Keep code, README and `.github/workflows/daily.yml` in agreement when changing this.
 - Never commit live data from local runs into `data/` (it seeds dedupe and the trend table); use `npm run snapshot -- --root <tmpdir>` or `--dry-run`. Only the scheduled workflow writes `data/`.
 - README.md must keep the `<!-- snapshot:start -->`/`<!-- snapshot:end -->` markers (a test enforces it).
 - Before adding a Greenhouse/Lever board slug, confirm its public API returns 200; a dead board fails the whole daily run.

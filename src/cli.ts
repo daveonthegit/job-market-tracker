@@ -35,7 +35,11 @@ async function main(): Promise<void> {
   }
   const now = new Date();
   const date = values.date ?? now.toISOString().slice(0, 10);
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) throw new Error(`--date must be YYYY-MM-DD, got "${date}"`);
+  const parsedDate = new Date(`${date}T00:00:00.000Z`);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date) || !Number.isFinite(parsedDate.getTime()) ||
+      parsedDate.toISOString().slice(0, 10) !== date) {
+    throw new Error(`--date must be a real UTC calendar date in YYYY-MM-DD format, got "${date}"`);
+  }
 
   const root = resolve(values.root);
   const dataDir = join(root, "data");

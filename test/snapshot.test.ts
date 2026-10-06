@@ -68,6 +68,29 @@ describe("fetchAll", () => {
     });
   });
 
+  it("rejects a plan with no enabled sources without fetching", async () => {
+    let calls = 0;
+    await assert.rejects(fetchAll(async () => { calls++; return {}; }, only({}), 0), /no sources enabled/);
+    assert.equal(calls, 0);
+  });
+
+  for (const source of ["greenhouse", "lever"] as const) {
+    it(`warns for empty ${source} boards but accepts a nonempty combined feed`, async (t) => {
+      const config = only({ [source]: true });
+      config.sources[source].boards = ["empty", "active"];
+      const warnings: unknown[][] = [];
+      t.mock.method(console, "error", (...args: unknown[]) => warnings.push(args));
+      const http = async (url: string) => url.includes("/empty")
+        ? (source === "greenhouse" ? { jobs: [] } : [])
+        : fixture(`${source}.json`);
+      const results = await fetchAll(http, config, 0);
+      assert.equal(results[0]!.postings.length, 2);
+      assert.deepEqual(warnings, [[`warning: ${source}/empty returned 0 postings`]]);
+      config.sources[source].boards = ["empty"];
+      await assert.rejects(fetchAll(http, config, 0), /returned no postings/);
+    });
+  }
+
   it("treats an empty feed as a failure rather than a quiet day", async () => {
     const http = async () => ({ jobs: [] });
     await assert.rejects(fetchAll(http, only({ remotive: true }), 0), /remotive: returned no postings/);

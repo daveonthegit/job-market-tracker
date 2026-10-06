@@ -35,6 +35,24 @@ describe("takeNew", () => {
     assert.deepEqual(takeNew([yesterday, fresh], seen), [fresh]);
   });
 
+  it("remembers every key of dropped duplicates for later aliases", () => {
+    const employer = posting();
+    const alias = posting({ id: "remotive:alias", source: "remotive", url: "https://r.test/alias" });
+    const seen = seenKeys([employer]);
+    assert.deepEqual(takeNew([alias], seen), []);
+    for (const key of ["id", "url", "fingerprint"]) {
+      const renamed = posting({
+        id: key === "id" ? alias.id : `lever:${key}`,
+        source: "lever",
+        url: key === "url" ? alias.url : `https://l.test/${key}`,
+        title: key === "fingerprint" ? alias.title : "Renamed Engineer",
+      });
+      assert.deepEqual(takeNew([renamed], seen), []);
+    }
+    assert.deepEqual(takeNew([employer, alias,
+      posting({ id: "lever:renamed", title: "Renamed", url: alias.url })], new Set()), [employer]);
+  });
+
   it("fingerprint ignores case and punctuation", () => {
     assert.equal(
       fingerprint(posting({ company: "Acme, Inc.", title: "Full-Stack Engineer" })),

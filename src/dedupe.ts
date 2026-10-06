@@ -30,16 +30,16 @@ export function dedupeKeys(p: Posting): string[] {
 
 /**
  * Keep only postings none of whose keys are in `seen`; record the keys of every
- * kept posting so later duplicates (same day, other source) are dropped too.
+ * posting so later duplicates (same day, other source) are dropped too.
  * Mutates `seen`.
  */
 export function takeNew(postings: Posting[], seen: Set<string>): Posting[] {
   const fresh: Posting[] = [];
   for (const p of postings) {
     const keys = dedupeKeys(p);
-    if (keys.some((k) => seen.has(k))) continue;
+    const duplicate = keys.some((k) => seen.has(k));
     keys.forEach((k) => seen.add(k));
-    fresh.push(p);
+    if (!duplicate) fresh.push(p);
   }
   return fresh;
 }
