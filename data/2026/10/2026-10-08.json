@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T19:19:49.878Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2725,
+      "matched": 66,
+      "new": 6
+    },
+    {
+      "source": "lever",
+      "fetched": 416,
+      "matched": 2,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 19,
+      "matched": 11,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 750,
+      "matched": 1,
+      "new": 1
+    },
+    {
+      "source": "hn",
+      "fetched": 161,
+      "matched": 48,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:reddit:8263406",
+      "source": "greenhouse",
+      "company": "Reddit",
+      "title": "Android Software Engineer, Consumer Engineering",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8263406",
+      "postedAt": "2026-10-07T22:13:20.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:reddit:8263407",
+      "source": "greenhouse",
+      "company": "Reddit",
+      "title": "Senior Android Software Engineer, Consumer Engineering",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8263407",
+      "postedAt": "2026-10-08T18:55:18.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:reddit:8263374",
+      "source": "greenhouse",
+      "company": "Reddit",
+      "title": "Senior iOS Software Engineer, Consumer Engineering",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8263374",
+      "postedAt": "2026-10-07T22:02:37.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:dropbox:8261911",
+      "source": "greenhouse",
+      "company": "Dropbox",
+      "title": "Principal Software Engineer",
+      "location": "Remote - US: All locations",
+      "remote": true,
+      "url": "https://jobs.dropbox.com/listing/8261911?gh_jid=8261911",
+      "postedAt": "2026-10-08T17:21:53.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:asana:8227390",
+      "source": "greenhouse",
+      "company": "Asana",
+      "title": "Software Engineer, AI Teammates Experience",
+      "location": "San Francisco",
+      "remote": false,
+      "url": "https://www.asana.com/jobs/apply/8227390?gh_jid=8227390",
+      "postedAt": "2026-10-08T15:27:29.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:robinhood:8255840",
+      "source": "greenhouse",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Web3 Backend",
+      "location": "Menlo Park, CA; New York, NY",
+      "remote": false,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8255840?t=gh_src=&gh_jid=8255840",
+      "postedAt": "2026-10-07T10:10:49.000Z",
+      "tags": []
+    },
+    {
+      "id": "arbeitnow:remote-product-engineer-96085",
+      "source": "arbeitnow",
+      "company": "0G",
+      "title": "Product Engineer",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/0g/remote-product-engineer-96085",
+      "postedAt": "2026-10-08T17:40:09.000Z",
+      "tags": [
+        "engineering"
+      ]
+    }
+  ]
+}

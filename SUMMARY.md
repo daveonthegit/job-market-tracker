@@ -1,33 +1,28 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-07**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-10-08**. Do not edit by hand._
 
-**123 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**7 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2706 | 61 | 61 |
-| lever | 415 | 2 | 2 |
-| remotive | 17 | 11 | 11 |
+| greenhouse | 2725 | 66 | 6 |
+| lever | 416 | 2 | 0 |
+| remotive | 19 | 11 | 0 |
 | arbeitnow | 750 | 1 | 1 |
-| hn | 157 | 48 | 48 |
+| hn | 161 | 48 | 0 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Reddit | 12 |
-| Discord | 10 |
-| Stripe | 10 |
-| Gusto, Inc. | 8 |
-| Robinhood | 6 |
-| Asana | 5 |
-| Lemon.io | 5 |
-| GitLab | 4 |
-| Vercel | 4 |
-| Datadog | 3 |
+| Reddit | 3 |
+| 0G | 1 |
+| Asana | 1 |
+| Dropbox | 1 |
+| Robinhood | 1 |
 
 ## Top skills (last 30 days)
 
@@ -35,7 +30,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Skill | Postings |
 | --- | --- |
-| ai | 12 |
+| ai | 13 |
 | ml | 10 |
 | node | 9 |
 | react | 8 |
@@ -55,12 +50,12 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Company | New postings |
 | --- | --- |
-| Reddit | 12 |
+| Reddit | 15 |
 | Discord | 10 |
 | Stripe | 10 |
 | Gusto, Inc. | 8 |
-| Robinhood | 6 |
-| Asana | 5 |
+| Robinhood | 7 |
+| Asana | 6 |
 | Lemon.io | 5 |
 | GitLab | 4 |
 | Vercel | 4 |
@@ -72,6 +67,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-10-08 | 7 | 29% | ai |
 | 2026-10-07 | 123 | 50% | ai |
 | 2026-10-06 | — | — | — |
 | 2026-10-05 | — | — | — |
@@ -101,4 +97,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-09-11 | — | — | — |
 | 2026-09-10 | — | — | — |
 | 2026-09-09 | — | — | — |
-| 2026-09-08 | — | — | — |
