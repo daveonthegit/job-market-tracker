@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-09",
+  "generatedAt": "2026-10-09T18:52:43.960Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2737,
+      "matched": 69,
+      "new": 2
+    },
+    {
+      "source": "lever",
+      "fetched": 418,
+      "matched": 2,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 17,
+      "matched": 11,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 750,
+      "matched": 3,
+      "new": 2
+    },
+    {
+      "source": "hn",
+      "fetched": 162,
+      "matched": 49,
+      "new": 1
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:stripe:8209967",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Staff Software Engineer,",
+      "location": "Seattle, San Francisco, Seattle, New York, Toronto",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8209967",
+      "postedAt": "2026-10-08T21:52:40.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:robinhood:8266107",
+      "source": "greenhouse",
+      "company": "Robinhood",
+      "title": "Staff Software Engineer, Backend Platform",
+      "location": "New York, NY",
+      "remote": false,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8266107?t=gh_src=&gh_jid=8266107",
+      "postedAt": "2026-10-09T01:58:08.000Z",
+      "tags": []
+    },
+    {
+      "id": "arbeitnow:remote-full-stack-engineer-creative-agents-292788",
+      "source": "arbeitnow",
+      "company": "ElevenLabs",
+      "title": "Full-stack Engineer - Creative Agents",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-creative-agents-292788",
+      "postedAt": "2026-10-08T20:40:12.000Z",
+      "tags": [
+        "engineering & product"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-full-stack-engineer-backend-leaning-creative-agents-323217",
+      "source": "arbeitnow",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-323217",
+      "postedAt": "2026-10-08T20:40:12.000Z",
+      "tags": [
+        "engineering & product"
+      ]
+    },
+    {
+      "id": "hn:50020012",
+      "source": "hn",
+      "company": "Propel Labs",
+      "title": "Staff Full-Stack Engineer, Quality & Delivery",
+      "location": "Remote (North America hours)",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50020012",
+      "postedAt": "2026-10-09T13:12:43.000Z",
+      "tags": []
+    }
+  ]
+}
