@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-10T17:54:42.198Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2737,
+      "matched": 70,
+      "new": 3
+    },
+    {
+      "source": "lever",
+      "fetched": 420,
+      "matched": 2,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 18,
+      "matched": 11,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 750,
+      "matched": 3,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 163,
+      "matched": 49,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:gitlab:8738179002",
+      "source": "greenhouse",
+      "company": "GitLab",
+      "title": "Senior Software Engineer, Security Factory: Code Security",
+      "location": "Remote, Canada; Remote, United States",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8738179002",
+      "postedAt": "2026-10-10T00:31:32.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:gitlab:8693563002",
+      "source": "greenhouse",
+      "company": "GitLab",
+      "title": "Staff Software Engineer, Security Factory: Static Analysis",
+      "location": "Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8693563002",
+      "postedAt": "2026-10-10T00:28:56.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:gusto:8208432",
+      "source": "greenhouse",
+      "company": "Gusto, Inc.",
+      "title": "Staff Software Engineer, Gusto Pro Integrations",
+      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8208432",
+      "postedAt": "2026-10-09T21:39:21.000Z",
+      "tags": []
+    }
+  ]
+}
