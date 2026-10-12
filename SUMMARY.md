@@ -1,22 +1,24 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-11**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-10-12**. Do not edit by hand._
 
-**0 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**1 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2737 | 67 | 0 |
-| lever | 420 | 2 | 0 |
-| remotive | 18 | 11 | 0 |
-| arbeitnow | 750 | 3 | 0 |
-| hn | 163 | 49 | 0 |
+| greenhouse | 2738 | 59 | 0 |
+| lever | 419 | 2 | 0 |
+| remotive | 15 | 9 | 0 |
+| arbeitnow | 750 | 2 | 0 |
+| hn | 166 | 50 | 1 |
 
 ## Top companies today
 
-_No new postings today._
+| Company | New postings |
+| --- | --- |
+| Typify.dev | 1 |
 
 ## Top skills (last 30 days)
 
@@ -24,7 +26,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Skill | Postings |
 | --- | --- |
-| ai | 13 |
+| ai | 14 |
 | ml | 10 |
 | node | 9 |
 | react | 8 |
@@ -61,6 +63,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-10-12 | 1 | 100% | ai |
 | 2026-10-11 | 0 | — | — |
 | 2026-10-10 | 3 | 67% | — |
 | 2026-10-09 | 5 | 60% | — |
@@ -90,4 +93,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-09-15 | — | — | — |
 | 2026-09-14 | — | — | — |
 | 2026-09-13 | — | — | — |
-| 2026-09-12 | — | — | — |

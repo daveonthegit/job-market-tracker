@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T21:47:16.939Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2738,
+      "matched": 59,
+      "new": 0
+    },
+    {
+      "source": "lever",
+      "fetched": 419,
+      "matched": 2,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 15,
+      "matched": 9,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 750,
+      "matched": 2,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 166,
+      "matched": 50,
+      "new": 1
+    }
+  ],
+  "postings": [
+    {
+      "id": "hn:50063001",
+      "source": "hn",
+      "company": "Typify.dev",
+      "title": "AI Application Engineer + Product Engineer",
+      "location": "San Francisco (hybrid / remote available)",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50063001",
+      "postedAt": "2026-10-12T21:00:23.000Z",
+      "tags": []
+    }
+  ]
+}
