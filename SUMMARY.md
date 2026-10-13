@@ -1,24 +1,28 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-12**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-10-13**. Do not edit by hand._
 
-**1 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**9 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2738 | 59 | 0 |
+| greenhouse | 2729 | 61 | 2 |
 | lever | 419 | 2 | 0 |
-| remotive | 15 | 9 | 0 |
-| arbeitnow | 750 | 2 | 0 |
-| hn | 166 | 50 | 1 |
+| remotive | 16 | 10 | 0 |
+| arbeitnow | 900 | 9 | 7 |
+| hn | 168 | 50 | 0 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Typify.dev | 1 |
+| Swarmaero | 5 |
+| Datadog | 1 |
+| Duna | 1 |
+| Nopan | 1 |
+| Stripe | 1 |
 
 ## Top skills (last 30 days)
 
@@ -47,15 +51,15 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | Company | New postings |
 | --- | --- |
 | Reddit | 15 |
-| Stripe | 11 |
+| Stripe | 12 |
 | Discord | 10 |
 | Gusto, Inc. | 9 |
 | Robinhood | 8 |
 | Asana | 6 |
 | GitLab | 6 |
 | Lemon.io | 5 |
-| Vercel | 4 |
-| Datadog | 3 |
+| Swarmaero | 5 |
+| Datadog | 4 |
 
 ## 30-day trend
 
@@ -63,6 +67,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-10-13 | 9 | 78% | — |
 | 2026-10-12 | 1 | 100% | ai |
 | 2026-10-11 | 0 | — | — |
 | 2026-10-10 | 3 | 67% | — |
@@ -92,4 +97,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-09-16 | — | — | — |
 | 2026-09-15 | — | — | — |
 | 2026-09-14 | — | — | — |
-| 2026-09-13 | — | — | — |

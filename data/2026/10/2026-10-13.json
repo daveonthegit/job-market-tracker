@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T19:54:16.209Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2729,
+      "matched": 61,
+      "new": 2
+    },
+    {
+      "source": "lever",
+      "fetched": 419,
+      "matched": 2,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 16,
+      "matched": 10,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 9,
+      "new": 7
+    },
+    {
+      "source": "hn",
+      "fetched": 168,
+      "matched": 50,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:stripe:8206731",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Builder Experience",
+      "location": "San Francisco",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8206731",
+      "postedAt": "2026-10-05T20:07:42.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:datadog:8278276",
+      "source": "greenhouse",
+      "company": "Datadog",
+      "title": "Senior Software Engineer - Distributed Systems (Continuous Profiler)",
+      "location": "New York, New York, USA",
+      "remote": false,
+      "url": "https://careers.datadoghq.com/detail/8278276/?gh_jid=8278276",
+      "postedAt": "2026-10-13T13:57:12.000Z",
+      "tags": []
+    },
+    {
+      "id": "arbeitnow:remote-senior-software-engineer-423367",
+      "source": "arbeitnow",
+      "company": "Nopan",
+      "title": "Senior Software Engineer",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/nopan/remote-senior-software-engineer-423367",
+      "postedAt": "2026-10-13T17:41:08.000Z",
+      "tags": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-staff-software-engineer-real-time-systems-109359",
+      "source": "arbeitnow",
+      "company": "Swarmaero",
+      "title": "Staff Software Engineer, Real-Time Systems",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-staff-software-engineer-real-time-systems-109359",
+      "postedAt": "2026-10-13T17:40:53.000Z",
+      "tags": [
+        "legion"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-software-engineer-real-time-systems-early-career-159904",
+      "source": "arbeitnow",
+      "company": "Swarmaero",
+      "title": "Software Engineer, Real-Time Systems (Early Career)",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-software-engineer-real-time-systems-early-career-159904",
+      "postedAt": "2026-10-13T17:40:53.000Z",
+      "tags": [
+        "legion"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-software-engineer-robotics-180888",
+      "source": "arbeitnow",
+      "company": "Swarmaero",
+      "title": "Software Engineer, Robotics",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-software-engineer-robotics-180888",
+      "postedAt": "2026-10-13T17:40:53.000Z",
+      "tags": [
+        "legion"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-staff-software-engineer-autonomy-402548",
+      "source": "arbeitnow",
+      "company": "Swarmaero",
+      "title": "Staff Software Engineer, Autonomy",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-staff-software-engineer-autonomy-402548",
+      "postedAt": "2026-10-13T17:40:53.000Z",
+      "tags": [
+        "legion"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-software-engineer-autonomy-278473",
+      "source": "arbeitnow",
+      "company": "Swarmaero",
+      "title": "Software Engineer, Autonomy",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-software-engineer-autonomy-278473",
+      "postedAt": "2026-10-13T17:40:53.000Z",
+      "tags": [
+        "legion"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-backend-engineer-400498",
+      "source": "arbeitnow",
+      "company": "Duna",
+      "title": "Backend Engineer",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.nl/jobs/companies/duna/remote-backend-engineer-400498",
+      "postedAt": "2026-10-13T17:40:48.000Z",
+      "tags": [
+        "engineering"
+      ]
+    }
+  ]
+}
