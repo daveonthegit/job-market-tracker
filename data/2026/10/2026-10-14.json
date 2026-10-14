@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T18:04:42.322Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2721,
+      "matched": 61,
+      "new": 1
+    },
+    {
+      "source": "lever",
+      "fetched": 419,
+      "matched": 1,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 15,
+      "matched": 9,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 5,
+      "new": 4
+    },
+    {
+      "source": "hn",
+      "fetched": 167,
+      "matched": 50,
+      "new": 1
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:robinhood:8126312",
+      "source": "greenhouse",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, International",
+      "location": "Menlo Park, CA; New York, NY",
+      "remote": false,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8126312?t=gh_src=&gh_jid=8126312",
+      "postedAt": "2026-10-14T08:57:55.000Z",
+      "tags": []
+    },
+    {
+      "id": "arbeitnow:remote-full-stack-engineer-elevenmusic-445764",
+      "source": "arbeitnow",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer - ElevenMusic",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-elevenmusic-445764",
+      "postedAt": "2026-10-14T02:40:19.000Z",
+      "tags": [
+        "engineering & product"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-full-stack-engineer-backend-leaning-coremusic-140966",
+      "source": "arbeitnow",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer (Backend-Leaning) - CoreMusic",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-coremusic-140966",
+      "postedAt": "2026-10-14T02:40:19.000Z",
+      "tags": [
+        "engineering & product"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-full-stack-engineer-productions-292727",
+      "source": "arbeitnow",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer - Productions",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-productions-292727",
+      "postedAt": "2026-10-14T02:40:19.000Z",
+      "tags": [
+        "engineering & product"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-full-stack-engineer-frontend-leaning-creativemusic-231100",
+      "source": "arbeitnow",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer (Frontend-Leaning) - CreativeMusic",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-frontend-leaning-creativemusic-231100",
+      "postedAt": "2026-10-14T02:40:19.000Z",
+      "tags": [
+        "engineering & product"
+      ]
+    },
+    {
+      "id": "hn:50090302",
+      "source": "hn",
+      "company": "GovStar",
+      "title": "Senior Full Stack Python Developer",
+      "location": "https://govstar.us / Remote (U.S. Eastern/Central Time)",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50090302",
+      "postedAt": "2026-10-14T16:26:28.000Z",
+      "tags": []
+    }
+  ]
+}
