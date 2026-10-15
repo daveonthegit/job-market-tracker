@@ -1,26 +1,28 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-14**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-10-15**. Do not edit by hand._
 
-**6 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**5 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2721 | 61 | 1 |
+| greenhouse | 2714 | 60 | 4 |
 | lever | 419 | 1 | 0 |
-| remotive | 15 | 9 | 0 |
-| arbeitnow | 900 | 5 | 4 |
-| hn | 167 | 50 | 1 |
+| remotive | 14 | 8 | 0 |
+| arbeitnow | 900 | 0 | 0 |
+| hn | 169 | 51 | 1 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| ElevenLabs | 4 |
-| GovStar | 1 |
-| Robinhood | 1 |
+| Asana | 1 |
+| Gusto, Inc. | 1 |
+| NeuralFrame | 1 |
+| Reddit | 1 |
+| Stripe | 1 |
 
 ## Top skills (last 30 days)
 
@@ -31,15 +33,15 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | ai | 14 |
 | ml | 10 |
 | node | 9 |
-| python | 8 |
+| python | 9 |
 | react | 8 |
+| rust | 8 |
 | typescript | 8 |
 | java | 7 |
 | javascript | 7 |
 | php | 7 |
 | rails | 7 |
 | ruby | 7 |
-| rust | 7 |
 | c# | 6 |
 | golang | 6 |
 | next.js | 6 |
@@ -48,12 +50,12 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Company | New postings |
 | --- | --- |
-| Reddit | 15 |
-| Stripe | 12 |
+| Reddit | 16 |
+| Stripe | 13 |
 | Discord | 10 |
-| Gusto, Inc. | 9 |
+| Gusto, Inc. | 10 |
 | Robinhood | 9 |
-| Asana | 6 |
+| Asana | 7 |
 | ElevenLabs | 6 |
 | GitLab | 6 |
 | Lemon.io | 5 |
@@ -65,6 +67,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-10-15 | 5 | 40% | python |
 | 2026-10-14 | 6 | 83% | python |
 | 2026-10-13 | 9 | 78% | — |
 | 2026-10-12 | 1 | 100% | ai |
@@ -94,4 +97,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-09-18 | — | — | — |
 | 2026-09-17 | — | — | — |
 | 2026-09-16 | — | — | — |
-| 2026-09-15 | — | — | — |
