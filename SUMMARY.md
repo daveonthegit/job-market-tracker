@@ -1,28 +1,22 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-15**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-10-16**. Do not edit by hand._
 
-**5 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**0 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2714 | 60 | 4 |
-| lever | 419 | 1 | 0 |
-| remotive | 14 | 8 | 0 |
+| greenhouse | 2716 | 56 | 0 |
+| lever | 414 | 1 | 0 |
+| remotive | 15 | 9 | 0 |
 | arbeitnow | 900 | 0 | 0 |
-| hn | 169 | 51 | 1 |
+| hn | 168 | 51 | 0 |
 
 ## Top companies today
 
-| Company | New postings |
-| --- | --- |
-| Asana | 1 |
-| Gusto, Inc. | 1 |
-| NeuralFrame | 1 |
-| Reddit | 1 |
-| Stripe | 1 |
+_No new postings today._
 
 ## Top skills (last 30 days)
 
@@ -67,6 +61,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-10-16 | 0 | — | — |
 | 2026-10-15 | 5 | 40% | python |
 | 2026-10-14 | 6 | 83% | python |
 | 2026-10-13 | 9 | 78% | — |
@@ -96,4 +91,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-09-19 | — | — | — |
 | 2026-09-18 | — | — | — |
 | 2026-09-17 | — | — | — |
-| 2026-09-16 | — | — | — |
