@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T16:31:30.996Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2697,
+      "matched": 55,
+      "new": 2
+    },
+    {
+      "source": "lever",
+      "fetched": 416,
+      "matched": 1,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 13,
+      "matched": 7,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 0,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 168,
+      "matched": 51,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:datadog:8292620",
+      "source": "greenhouse",
+      "company": "Datadog",
+      "title": "Senior Software Engineer - Husky Storage",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "remote": false,
+      "url": "https://careers.datadoghq.com/detail/8292620/?gh_jid=8292620",
+      "postedAt": "2026-10-16T20:58:27.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:gusto:8244957",
+      "source": "greenhouse",
+      "company": "Gusto, Inc.",
+      "title": "Staff Software Engineer, Expansion Experiences",
+      "location": "San Francisco, CA - Hybrid",
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8244957",
+      "postedAt": "2026-10-16T18:11:48.000Z",
+      "tags": []
+    }
+  ]
+}

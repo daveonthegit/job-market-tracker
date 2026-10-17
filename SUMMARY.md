@@ -1,22 +1,25 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-16**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-10-17**. Do not edit by hand._
 
-**0 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**2 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2716 | 56 | 0 |
-| lever | 414 | 1 | 0 |
-| remotive | 15 | 9 | 0 |
+| greenhouse | 2697 | 55 | 2 |
+| lever | 416 | 1 | 0 |
+| remotive | 13 | 7 | 0 |
 | arbeitnow | 900 | 0 | 0 |
 | hn | 168 | 51 | 0 |
 
 ## Top companies today
 
-_No new postings today._
+| Company | New postings |
+| --- | --- |
+| Datadog | 1 |
+| Gusto, Inc. | 1 |
 
 ## Top skills (last 30 days)
 
@@ -46,14 +49,14 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | --- | --- |
 | Reddit | 16 |
 | Stripe | 13 |
+| Gusto, Inc. | 11 |
 | Discord | 10 |
-| Gusto, Inc. | 10 |
 | Robinhood | 9 |
 | Asana | 7 |
 | ElevenLabs | 6 |
 | GitLab | 6 |
+| Datadog | 5 |
 | Lemon.io | 5 |
-| Swarmaero | 5 |
 
 ## 30-day trend
 
@@ -61,6 +64,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-10-17 | 2 | 0% | — |
 | 2026-10-16 | 0 | — | — |
 | 2026-10-15 | 5 | 40% | python |
 | 2026-10-14 | 6 | 83% | python |
@@ -90,4 +94,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-09-20 | — | — | — |
 | 2026-09-19 | — | — | — |
 | 2026-09-18 | — | — | — |
-| 2026-09-17 | — | — | — |
