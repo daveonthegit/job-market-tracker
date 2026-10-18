@@ -1,25 +1,22 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-17**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-10-18**. Do not edit by hand._
 
-**2 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**0 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2697 | 55 | 2 |
+| greenhouse | 2694 | 48 | 0 |
 | lever | 416 | 1 | 0 |
-| remotive | 13 | 7 | 0 |
+| remotive | 12 | 6 | 0 |
 | arbeitnow | 900 | 0 | 0 |
 | hn | 168 | 51 | 0 |
 
 ## Top companies today
 
-| Company | New postings |
-| --- | --- |
-| Datadog | 1 |
-| Gusto, Inc. | 1 |
+_No new postings today._
 
 ## Top skills (last 30 days)
 
@@ -64,6 +61,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-10-18 | 0 | — | — |
 | 2026-10-17 | 2 | 0% | — |
 | 2026-10-16 | 0 | — | — |
 | 2026-10-15 | 5 | 40% | python |
@@ -93,4 +91,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-09-21 | — | — | — |
 | 2026-09-20 | — | — | — |
 | 2026-09-19 | — | — | — |
-| 2026-09-18 | — | — | — |
