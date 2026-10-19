@@ -1,22 +1,25 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-18**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-10-19**. Do not edit by hand._
 
-**0 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**2 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2694 | 48 | 0 |
-| lever | 416 | 1 | 0 |
-| remotive | 12 | 6 | 0 |
+| greenhouse | 2690 | 43 | 1 |
+| lever | 413 | 1 | 0 |
+| remotive | 12 | 5 | 1 |
 | arbeitnow | 900 | 0 | 0 |
 | hn | 168 | 51 | 0 |
 
 ## Top companies today
 
-_No new postings today._
+| Company | New postings |
+| --- | --- |
+| Askable | 1 |
+| Reddit | 1 |
 
 ## Top skills (last 30 days)
 
@@ -24,14 +27,14 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Skill | Postings |
 | --- | --- |
-| ai | 14 |
-| ml | 10 |
+| ai | 15 |
+| ml | 11 |
+| python | 10 |
 | node | 9 |
-| python | 9 |
+| rust | 9 |
+| typescript | 9 |
+| java | 8 |
 | react | 8 |
-| rust | 8 |
-| typescript | 8 |
-| java | 7 |
 | javascript | 7 |
 | php | 7 |
 | rails | 7 |
@@ -44,7 +47,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Company | New postings |
 | --- | --- |
-| Reddit | 16 |
+| Reddit | 17 |
 | Stripe | 13 |
 | Gusto, Inc. | 11 |
 | Discord | 10 |
@@ -61,6 +64,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-10-19 | 2 | 100% | ai |
 | 2026-10-18 | 0 | — | — |
 | 2026-10-17 | 2 | 0% | — |
 | 2026-10-16 | 0 | — | — |
@@ -90,4 +94,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-09-22 | — | — | — |
 | 2026-09-21 | — | — | — |
 | 2026-09-20 | — | — | — |
-| 2026-09-19 | — | — | — |

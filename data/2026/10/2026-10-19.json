@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T19:23:09.451Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2690,
+      "matched": 43,
+      "new": 1
+    },
+    {
+      "source": "lever",
+      "fetched": 413,
+      "matched": 1,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 12,
+      "matched": 5,
+      "new": 1
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 0,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 168,
+      "matched": 51,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:reddit:8275745",
+      "source": "greenhouse",
+      "company": "Reddit",
+      "title": "Software Engineer, Agent Optimization & Evaluation",
+      "location": "Remote - United States",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8275745",
+      "postedAt": "2026-10-19T01:44:46.000Z",
+      "tags": []
+    },
+    {
+      "id": "remotive:2091158",
+      "source": "remotive",
+      "company": "Askable",
+      "title": "Software Engineer, AI Coding Tasks",
+      "location": "Worldwide",
+      "remote": true,
+      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+      "postedAt": "2026-10-17T16:04:29.000Z",
+      "tags": [
+        "c++",
+        "docker",
+        "git",
+        "go",
+        "java",
+        "python",
+        "security",
+        "ai/ml",
+        "rust",
+        "typescript",
+        "distributed systems",
+        "solid",
+        "linux/unix",
+        "testing",
+        "infrastructure"
+      ]
+    }
+  ]
+}
