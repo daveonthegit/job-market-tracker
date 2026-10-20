@@ -1,24 +1,27 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-19**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-10-20**. Do not edit by hand._
 
-**2 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**11 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2690 | 43 | 1 |
-| lever | 413 | 1 | 0 |
-| remotive | 12 | 5 | 1 |
-| arbeitnow | 900 | 0 | 0 |
+| greenhouse | 2707 | 47 | 4 |
+| lever | 415 | 2 | 1 |
+| remotive | 10 | 5 | 0 |
+| arbeitnow | 900 | 6 | 6 |
 | hn | 168 | 51 | 0 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Askable | 1 |
+| Circuithub | 6 |
+| Stripe | 2 |
+| Asana | 1 |
+| Palantir | 1 |
 | Reddit | 1 |
 
 ## Top skills (last 30 days)
@@ -27,7 +30,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Skill | Postings |
 | --- | --- |
-| ai | 15 |
+| ai | 16 |
 | ml | 11 |
 | python | 10 |
 | node | 9 |
@@ -47,16 +50,16 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Company | New postings |
 | --- | --- |
-| Reddit | 17 |
-| Stripe | 13 |
+| Reddit | 18 |
+| Stripe | 15 |
 | Gusto, Inc. | 11 |
 | Discord | 10 |
 | Robinhood | 9 |
-| Asana | 7 |
+| Asana | 8 |
+| Circuithub | 6 |
 | ElevenLabs | 6 |
 | GitLab | 6 |
 | Datadog | 5 |
-| Lemon.io | 5 |
 
 ## 30-day trend
 
@@ -64,6 +67,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-10-20 | 11 | 64% | ai |
 | 2026-10-19 | 2 | 100% | ai |
 | 2026-10-18 | 0 | — | — |
 | 2026-10-17 | 2 | 0% | — |
@@ -93,4 +97,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-09-23 | — | — | — |
 | 2026-09-22 | — | — | — |
 | 2026-09-21 | — | — | — |
-| 2026-09-20 | — | — | — |

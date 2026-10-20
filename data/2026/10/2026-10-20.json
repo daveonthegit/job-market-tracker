@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T18:01:40.522Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2707,
+      "matched": 47,
+      "new": 4
+    },
+    {
+      "source": "lever",
+      "fetched": 415,
+      "matched": 2,
+      "new": 1
+    },
+    {
+      "source": "remotive",
+      "fetched": 10,
+      "matched": 5,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 6,
+      "new": 6
+    },
+    {
+      "source": "hn",
+      "fetched": 168,
+      "matched": 51,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:stripe:8163540",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Staff Software Engineer, IAM Control Plane",
+      "location": "San Francisco",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8163540",
+      "postedAt": "2026-10-20T14:51:05.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:stripe:8287912",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Staff Software Engineer, Radar",
+      "location": "San Francisco, Seattle",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8287912",
+      "postedAt": "2026-10-20T16:07:32.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:reddit:8303798",
+      "source": "greenhouse",
+      "company": "Reddit",
+      "title": "Senior Software Engineer, Web Platform",
+      "location": "Remote - United States",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8303798",
+      "postedAt": "2026-10-20T16:54:32.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:asana:8226969",
+      "source": "greenhouse",
+      "company": "Asana",
+      "title": "Staff Software Engineer, Data Loading Infrastructure",
+      "location": "San Francisco",
+      "remote": false,
+      "url": "https://www.asana.com/jobs/apply/8226969?gh_jid=8226969",
+      "postedAt": "2026-10-19T21:23:05.000Z",
+      "tags": []
+    },
+    {
+      "id": "lever:palantir:90329118-d9b7-4b96-acdf-13377e3196ac",
+      "source": "lever",
+      "company": "Palantir",
+      "title": "Software Engineer, New Grad - Query Engines",
+      "location": "New York, NY",
+      "remote": false,
+      "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac",
+      "postedAt": "2026-10-19T23:45:22.249Z",
+      "tags": [
+        "dev"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-software-engineer-applied-ai-430890",
+      "source": "arbeitnow",
+      "company": "Circuithub",
+      "title": "Software Engineer, Applied AI",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-applied-ai-430890",
+      "postedAt": "2026-10-20T14:40:40.000Z",
+      "tags": [
+        "software engineering"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-software-engineer-product-297213",
+      "source": "arbeitnow",
+      "company": "Circuithub",
+      "title": "Software Engineer, Product",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-product-297213",
+      "postedAt": "2026-10-20T14:40:40.000Z",
+      "tags": [
+        "software engineering"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-software-engineer-front-end-design-8654",
+      "source": "arbeitnow",
+      "company": "Circuithub",
+      "title": "Software Engineer, Front End & Design",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-front-end-design-8654",
+      "postedAt": "2026-10-20T14:40:40.000Z",
+      "tags": [
+        "software engineering"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-software-engineer-computer-vision-401580",
+      "source": "arbeitnow",
+      "company": "Circuithub",
+      "title": "Software Engineer, Computer Vision",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-computer-vision-401580",
+      "postedAt": "2026-10-20T14:40:40.000Z",
+      "tags": [
+        "software engineering"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-software-engineer-robotics-169035",
+      "source": "arbeitnow",
+      "company": "Circuithub",
+      "title": "Software Engineer, Robotics",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-robotics-169035",
+      "postedAt": "2026-10-20T14:40:40.000Z",
+      "tags": [
+        "software engineering"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-software-engineer-haskell-207329",
+      "source": "arbeitnow",
+      "company": "Circuithub",
+      "title": "Software Engineer, Haskell",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-haskell-207329",
+      "postedAt": "2026-10-20T14:40:40.000Z",
+      "tags": [
+        "software engineering"
+      ]
+    }
+  ]
+}

@@ -17,7 +17,7 @@ and stored in this repo as plain JSON.
 ## Latest snapshot
 
 <!-- snapshot:start -->
-**Latest snapshot:** 2026-10-19 · **2** new postings · **163** over the last 30 days (13 snapshots)
+**Latest snapshot:** 2026-10-20 · **11** new postings · **174** over the last 30 days (14 snapshots)
 
 Top skills (30 days): ai, ml, python, node, rust. See [SUMMARY.md](SUMMARY.md) for the full breakdown.
 <!-- snapshot:end -->
