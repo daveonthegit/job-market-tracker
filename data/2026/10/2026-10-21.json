@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T18:08:22.741Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2705,
+      "matched": 48,
+      "new": 2
+    },
+    {
+      "source": "lever",
+      "fetched": 410,
+      "matched": 2,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 10,
+      "matched": 5,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 9,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 168,
+      "matched": 51,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:stripe:8301253",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Backend / API Engineer, Radar",
+      "location": "San Francisco, Seattle, New York",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8301253",
+      "postedAt": "2026-10-19T19:15:39.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:datadog:8304107",
+      "source": "greenhouse",
+      "company": "Datadog",
+      "title": "Staff Software Engineer - Watchdog Anomaly Detection",
+      "location": "New York, New York, USA",
+      "remote": false,
+      "url": "https://careers.datadoghq.com/detail/8304107/?gh_jid=8304107",
+      "postedAt": "2026-10-20T18:24:36.000Z",
+      "tags": []
+    }
+  ]
+}
