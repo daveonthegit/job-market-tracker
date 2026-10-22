@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T18:03:23.048Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2713,
+      "matched": 48,
+      "new": 4
+    },
+    {
+      "source": "lever",
+      "fetched": 403,
+      "matched": 2,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 10,
+      "matched": 5,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 1,
+      "new": 1
+    },
+    {
+      "source": "hn",
+      "fetched": 168,
+      "matched": 51,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:stripe:8314283",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer",
+      "location": "South San Francisco, CA",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8314283",
+      "postedAt": "2026-10-22T17:01:03.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:stripe:8314235",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, Resource Automation",
+      "location": "South San Francisco, CA",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8314235",
+      "postedAt": "2026-10-22T16:43:29.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:reddit:8204924",
+      "source": "greenhouse",
+      "company": "Reddit",
+      "title": "Staff Backend Engineer, User Safety",
+      "location": "Remote - United States",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8204924",
+      "postedAt": "2026-10-21T20:01:38.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:reddit:8311209",
+      "source": "greenhouse",
+      "company": "Reddit",
+      "title": "Staff Software Engineer, iOS Platform",
+      "location": "Remote - United States",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8311209",
+      "postedAt": "2026-10-21T22:00:43.000Z",
+      "tags": []
+    },
+    {
+      "id": "arbeitnow:remote-full-stack-engineer-frontend-leaning-studio-291198",
+      "source": "arbeitnow",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer (Frontend Leaning) - Studio",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-frontend-leaning-studio-291198",
+      "postedAt": "2026-10-22T11:40:29.000Z",
+      "tags": [
+        "engineering & product"
+      ]
+    }
+  ]
+}

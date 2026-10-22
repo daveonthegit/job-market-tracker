@@ -1,25 +1,26 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-21**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-10-22**. Do not edit by hand._
 
-**2 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**5 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2705 | 48 | 2 |
-| lever | 410 | 2 | 0 |
+| greenhouse | 2713 | 48 | 4 |
+| lever | 403 | 2 | 0 |
 | remotive | 10 | 5 | 0 |
-| arbeitnow | 900 | 9 | 0 |
+| arbeitnow | 900 | 1 | 1 |
 | hn | 168 | 51 | 0 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Datadog | 1 |
-| Stripe | 1 |
+| Reddit | 2 |
+| Stripe | 2 |
+| ElevenLabs | 1 |
 
 ## Top skills (last 30 days)
 
@@ -47,15 +48,15 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Company | New postings |
 | --- | --- |
-| Reddit | 18 |
-| Stripe | 16 |
+| Reddit | 20 |
+| Stripe | 18 |
 | Gusto, Inc. | 11 |
 | Discord | 10 |
 | Robinhood | 9 |
 | Asana | 8 |
+| ElevenLabs | 7 |
 | Circuithub | 6 |
 | Datadog | 6 |
-| ElevenLabs | 6 |
 | GitLab | 6 |
 
 ## 30-day trend
@@ -64,6 +65,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-10-22 | 5 | 60% | — |
 | 2026-10-21 | 2 | 0% | — |
 | 2026-10-20 | 11 | 64% | ai |
 | 2026-10-19 | 2 | 100% | ai |
@@ -93,4 +95,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-09-25 | — | — | — |
 | 2026-09-24 | — | — | — |
 | 2026-09-23 | — | — | — |
-| 2026-09-22 | — | — | — |
