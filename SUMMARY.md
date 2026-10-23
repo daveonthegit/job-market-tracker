@@ -1,26 +1,26 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-22**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-10-23**. Do not edit by hand._
 
-**5 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**3 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2713 | 48 | 4 |
-| lever | 403 | 2 | 0 |
-| remotive | 10 | 5 | 0 |
-| arbeitnow | 900 | 1 | 1 |
+| greenhouse | 2732 | 49 | 2 |
+| lever | 421 | 3 | 1 |
+| remotive | 9 | 5 | 0 |
+| arbeitnow | 900 | 0 | 0 |
 | hn | 168 | 51 | 0 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Reddit | 2 |
-| Stripe | 2 |
-| ElevenLabs | 1 |
+| Palantir | 1 |
+| Robinhood | 1 |
+| Stripe | 1 |
 
 ## Top skills (last 30 days)
 
@@ -49,10 +49,10 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | Company | New postings |
 | --- | --- |
 | Reddit | 20 |
-| Stripe | 18 |
+| Stripe | 19 |
 | Gusto, Inc. | 11 |
 | Discord | 10 |
-| Robinhood | 9 |
+| Robinhood | 10 |
 | Asana | 8 |
 | ElevenLabs | 7 |
 | Circuithub | 6 |
@@ -65,6 +65,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-10-23 | 3 | 0% | — |
 | 2026-10-22 | 5 | 60% | — |
 | 2026-10-21 | 2 | 0% | — |
 | 2026-10-20 | 11 | 64% | ai |
@@ -94,4 +95,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-09-26 | — | — | — |
 | 2026-09-25 | — | — | — |
 | 2026-09-24 | — | — | — |
-| 2026-09-23 | — | — | — |

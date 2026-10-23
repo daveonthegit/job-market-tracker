@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T17:54:47.465Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2732,
+      "matched": 49,
+      "new": 2
+    },
+    {
+      "source": "lever",
+      "fetched": 421,
+      "matched": 3,
+      "new": 1
+    },
+    {
+      "source": "remotive",
+      "fetched": 9,
+      "matched": 5,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 0,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 168,
+      "matched": 51,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:stripe:8260980",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Staff Software Engineer, Payments Intelligence",
+      "location": "Seattle, New York, San Francisco",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8260980",
+      "postedAt": "2026-10-22T19:52:24.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:robinhood:8302244",
+      "source": "greenhouse",
+      "company": "Robinhood",
+      "title": "Staff Web Engineer, Advisor Products",
+      "location": "New York, NY",
+      "remote": false,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8302244?t=gh_src=&gh_jid=8302244",
+      "postedAt": "2026-10-22T22:37:11.000Z",
+      "tags": []
+    },
+    {
+      "id": "lever:palantir:66b495eb-aaf9-4bf9-a759-41854534add7",
+      "source": "lever",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, New Grad - Warp Speed",
+      "location": "New York, NY",
+      "remote": false,
+      "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7",
+      "postedAt": "2026-10-22T21:34:28.169Z",
+      "tags": [
+        "delta"
+      ]
+    }
+  ]
+}
