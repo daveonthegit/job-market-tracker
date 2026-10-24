@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T16:43:27.604Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2734,
+      "matched": 50,
+      "new": 2
+    },
+    {
+      "source": "lever",
+      "fetched": 421,
+      "matched": 3,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 10,
+      "matched": 5,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 0,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 168,
+      "matched": 51,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:gitlab:8771512002",
+      "source": "greenhouse",
+      "company": "GitLab",
+      "title": "Backend Engineer, Knowledge Graph (Rust)",
+      "location": "Remote, Canada; Remote, United States",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
+      "postedAt": "2026-10-23T22:47:07.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:reddit:8319655",
+      "source": "greenhouse",
+      "company": "Reddit",
+      "title": "Software Engineer, Ad Signals",
+      "location": "Remote - United States",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8319655",
+      "postedAt": "2026-10-24T16:34:49.000Z",
+      "tags": []
+    }
+  ]
+}

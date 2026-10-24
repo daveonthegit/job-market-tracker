@@ -1,16 +1,16 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-23**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-10-24**. Do not edit by hand._
 
-**3 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**2 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2732 | 49 | 2 |
-| lever | 421 | 3 | 1 |
-| remotive | 9 | 5 | 0 |
+| greenhouse | 2734 | 50 | 2 |
+| lever | 421 | 3 | 0 |
+| remotive | 10 | 5 | 0 |
 | arbeitnow | 900 | 0 | 0 |
 | hn | 168 | 51 | 0 |
 
@@ -18,9 +18,8 @@ _Generated automatically from `data/` for **2026-10-23**. Do not edit by hand._
 
 | Company | New postings |
 | --- | --- |
-| Palantir | 1 |
-| Robinhood | 1 |
-| Stripe | 1 |
+| GitLab | 1 |
+| Reddit | 1 |
 
 ## Top skills (last 30 days)
 
@@ -31,8 +30,8 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | ai | 16 |
 | ml | 11 |
 | python | 10 |
+| rust | 10 |
 | node | 9 |
-| rust | 9 |
 | typescript | 9 |
 | java | 8 |
 | react | 8 |
@@ -48,16 +47,16 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Company | New postings |
 | --- | --- |
-| Reddit | 20 |
+| Reddit | 21 |
 | Stripe | 19 |
 | Gusto, Inc. | 11 |
 | Discord | 10 |
 | Robinhood | 10 |
 | Asana | 8 |
 | ElevenLabs | 7 |
+| GitLab | 7 |
 | Circuithub | 6 |
 | Datadog | 6 |
-| GitLab | 6 |
 
 ## 30-day trend
 
@@ -65,6 +64,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-10-24 | 2 | 100% | rust |
 | 2026-10-23 | 3 | 0% | — |
 | 2026-10-22 | 5 | 60% | — |
 | 2026-10-21 | 2 | 0% | — |
@@ -94,4 +94,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-09-27 | — | — | — |
 | 2026-09-26 | — | — | — |
 | 2026-09-25 | — | — | — |
-| 2026-09-24 | — | — | — |
