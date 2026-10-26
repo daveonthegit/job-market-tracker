@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T19:25:32.418Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2721,
+      "matched": 44,
+      "new": 0
+    },
+    {
+      "source": "lever",
+      "fetched": 418,
+      "matched": 2,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 10,
+      "matched": 5,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 0,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 167,
+      "matched": 51,
+      "new": 0
+    }
+  ],
+  "postings": []
+}
