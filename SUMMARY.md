@@ -1,6 +1,6 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-26**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-10-27**. Do not edit by hand._
 
 **0 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
@@ -8,8 +8,8 @@ _Generated automatically from `data/` for **2026-10-26**. Do not edit by hand._
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2721 | 44 | 0 |
-| lever | 418 | 2 | 0 |
+| greenhouse | 2725 | 45 | 0 |
+| lever | 416 | 2 | 0 |
 | remotive | 10 | 5 | 0 |
 | arbeitnow | 900 | 0 | 0 |
 | hn | 167 | 51 | 0 |
@@ -61,6 +61,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-10-27 | 0 | — | — |
 | 2026-10-26 | 0 | — | — |
 | 2026-10-25 | 0 | — | — |
 | 2026-10-24 | 2 | 100% | rust |
@@ -90,4 +91,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-09-30 | — | — | — |
 | 2026-09-29 | — | — | — |
 | 2026-09-28 | — | — | — |
-| 2026-09-27 | — | — | — |
