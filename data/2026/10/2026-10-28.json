@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T18:56:25.074Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2687,
+      "matched": 44,
+      "new": 2
+    },
+    {
+      "source": "lever",
+      "fetched": 413,
+      "matched": 2,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 11,
+      "matched": 5,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 0,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 167,
+      "matched": 51,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:stripe:8329718",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Staff Software Engineer, Dashboard Product",
+      "location": "Seattle",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8329718",
+      "postedAt": "2026-10-28T01:21:27.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:stripe:8304788",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Staff Software Engineer, Link - Consumer Identity",
+      "location": "San Francisco, Seattle, New York",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8304788",
+      "postedAt": "2026-10-28T18:28:39.000Z",
+      "tags": []
+    }
+  ]
+}

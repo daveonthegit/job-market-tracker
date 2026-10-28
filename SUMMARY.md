@@ -1,22 +1,24 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-27**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-10-28**. Do not edit by hand._
 
-**0 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**2 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2725 | 45 | 0 |
-| lever | 416 | 2 | 0 |
-| remotive | 10 | 5 | 0 |
+| greenhouse | 2687 | 44 | 2 |
+| lever | 413 | 2 | 0 |
+| remotive | 11 | 5 | 0 |
 | arbeitnow | 900 | 0 | 0 |
 | hn | 167 | 51 | 0 |
 
 ## Top companies today
 
-_No new postings today._
+| Company | New postings |
+| --- | --- |
+| Stripe | 2 |
 
 ## Top skills (last 30 days)
 
@@ -45,7 +47,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | Company | New postings |
 | --- | --- |
 | Reddit | 21 |
-| Stripe | 19 |
+| Stripe | 21 |
 | Gusto, Inc. | 11 |
 | Discord | 10 |
 | Robinhood | 10 |
@@ -61,6 +63,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-10-28 | 2 | 0% | — |
 | 2026-10-27 | 0 | — | — |
 | 2026-10-26 | 0 | — | — |
 | 2026-10-25 | 0 | — | — |
@@ -90,4 +93,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-01 | — | — | — |
 | 2026-09-30 | — | — | — |
 | 2026-09-29 | — | — | — |
-| 2026-09-28 | — | — | — |
