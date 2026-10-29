@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T19:01:27.305Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2711,
+      "matched": 45,
+      "new": 4
+    },
+    {
+      "source": "lever",
+      "fetched": 410,
+      "matched": 2,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 12,
+      "matched": 6,
+      "new": 1
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 0,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 166,
+      "matched": 51,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:stripe:8332718",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, Fraud System Interventions",
+      "location": "South San Francisco, CA",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8332718",
+      "postedAt": "2026-10-29T00:01:17.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:stripe:8332676",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer - Full stack",
+      "location": "Seattle, WA",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8332676",
+      "postedAt": "2026-10-28T23:38:42.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:reddit:8287466",
+      "source": "greenhouse",
+      "company": "Reddit",
+      "title": "Senior Frontend Engineer, Ads Formats",
+      "location": "Remote - United States",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8287466",
+      "postedAt": "2026-10-29T17:39:26.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:reddit:8331341",
+      "source": "greenhouse",
+      "company": "Reddit",
+      "title": "Senior Software Engineer, Infrastructure Engineering",
+      "location": "Remote - United States",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8331341",
+      "postedAt": "2026-10-28T23:00:05.000Z",
+      "tags": []
+    },
+    {
+      "id": "remotive:2091135",
+      "source": "remotive",
+      "company": "Lemon.io",
+      "title": "Senior Back-end Developer",
+      "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
+      "remote": true,
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
+      "postedAt": "2026-10-27T12:56:13.000Z",
+      "tags": [
+        ".net",
+        "android",
+        "c",
+        "c#",
+        "c++",
+        "cloud",
+        "data science",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "kubernetes",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "ui/ux",
+        "wordpress",
+        "blockchain",
+        "ai/ml",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "unity",
+        "electron",
+        "spring",
+        "laravel",
+        "ethereum",
+        "graphic design",
+        "typescript",
+        "distributed systems",
+        "angular",
+        "firebase",
+        "data engineering",
+        "site reliability",
+        "symfony",
+        "linux/unix",
+        "next.js",
+        "infrastructure",
+        "flutter",
+        "gpu"
+      ]
+    }
+  ]
+}

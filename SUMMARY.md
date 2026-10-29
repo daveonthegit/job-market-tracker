@@ -1,24 +1,26 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-28**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-10-29**. Do not edit by hand._
 
-**2 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**5 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2687 | 44 | 2 |
-| lever | 413 | 2 | 0 |
-| remotive | 11 | 5 | 0 |
+| greenhouse | 2711 | 45 | 4 |
+| lever | 410 | 2 | 0 |
+| remotive | 12 | 6 | 1 |
 | arbeitnow | 900 | 0 | 0 |
-| hn | 167 | 51 | 0 |
+| hn | 166 | 51 | 0 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
+| Reddit | 2 |
 | Stripe | 2 |
+| Lemon.io | 1 |
 
 ## Top skills (last 30 days)
 
@@ -26,28 +28,28 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Skill | Postings |
 | --- | --- |
-| ai | 16 |
-| ml | 11 |
-| python | 10 |
-| rust | 10 |
-| node | 9 |
-| typescript | 9 |
-| java | 8 |
-| react | 8 |
-| javascript | 7 |
-| php | 7 |
-| rails | 7 |
-| ruby | 7 |
-| c# | 6 |
-| golang | 6 |
-| next.js | 6 |
+| ai | 17 |
+| ml | 12 |
+| python | 11 |
+| rust | 11 |
+| node | 10 |
+| typescript | 10 |
+| java | 9 |
+| react | 9 |
+| javascript | 8 |
+| php | 8 |
+| rails | 8 |
+| ruby | 8 |
+| c# | 7 |
+| golang | 7 |
+| next.js | 7 |
 
 ## Top companies (last 30 days)
 
 | Company | New postings |
 | --- | --- |
-| Reddit | 21 |
-| Stripe | 21 |
+| Reddit | 23 |
+| Stripe | 23 |
 | Gusto, Inc. | 11 |
 | Discord | 10 |
 | Robinhood | 10 |
@@ -63,6 +65,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-10-29 | 5 | 60% | .net |
 | 2026-10-28 | 2 | 0% | — |
 | 2026-10-27 | 0 | — | — |
 | 2026-10-26 | 0 | — | — |
@@ -92,4 +95,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-02 | — | — | — |
 | 2026-10-01 | — | — | — |
 | 2026-09-30 | — | — | — |
-| 2026-09-29 | — | — | — |
