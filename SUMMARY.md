@@ -1,26 +1,25 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-29**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-10-30**. Do not edit by hand._
 
-**5 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**2 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2711 | 45 | 4 |
-| lever | 410 | 2 | 0 |
-| remotive | 12 | 6 | 1 |
-| arbeitnow | 900 | 0 | 0 |
-| hn | 166 | 51 | 0 |
+| greenhouse | 2718 | 45 | 1 |
+| lever | 407 | 2 | 0 |
+| remotive | 12 | 6 | 0 |
+| arbeitnow | 900 | 1 | 1 |
+| hn | 164 | 51 | 0 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Reddit | 2 |
-| Stripe | 2 |
-| Lemon.io | 1 |
+| gitlab | 1 |
+| GitLab | 1 |
 
 ## Top skills (last 30 days)
 
@@ -36,10 +35,10 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | typescript | 10 |
 | java | 9 |
 | react | 9 |
+| ruby | 9 |
 | javascript | 8 |
 | php | 8 |
 | rails | 8 |
-| ruby | 8 |
 | c# | 7 |
 | golang | 7 |
 | next.js | 7 |
@@ -54,8 +53,8 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | Discord | 10 |
 | Robinhood | 10 |
 | Asana | 8 |
+| GitLab | 8 |
 | ElevenLabs | 7 |
-| GitLab | 7 |
 | Circuithub | 6 |
 | Datadog | 6 |
 
@@ -65,6 +64,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-10-30 | 2 | 100% | ruby |
 | 2026-10-29 | 5 | 60% | .net |
 | 2026-10-28 | 2 | 0% | — |
 | 2026-10-27 | 0 | — | — |
@@ -94,4 +94,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-03 | — | — | — |
 | 2026-10-02 | — | — | — |
 | 2026-10-01 | — | — | — |
-| 2026-09-30 | — | — | — |

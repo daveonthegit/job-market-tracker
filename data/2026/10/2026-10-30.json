@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T18:40:59.148Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2718,
+      "matched": 45,
+      "new": 1
+    },
+    {
+      "source": "lever",
+      "fetched": 407,
+      "matched": 2,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 12,
+      "matched": 6,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 1,
+      "new": 1
+    },
+    {
+      "source": "hn",
+      "fetched": 164,
+      "matched": 51,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:gitlab:8687958002",
+      "source": "greenhouse",
+      "company": "GitLab",
+      "title": "Senior Backend Engineer, Core DevOps: Container Registry",
+      "location": "Remote, Canada; Remote, United States",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687958002",
+      "postedAt": "2026-10-08T02:34:12.000Z",
+      "tags": []
+    },
+    {
+      "id": "arbeitnow:remote-backend-engineer-source-code-repository-services-ruby-60596",
+      "source": "arbeitnow",
+      "company": "gitlab",
+      "title": "Backend Engineer, Source Code: Repository Services (Ruby)",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-source-code-repository-services-ruby-60596",
+      "postedAt": "2026-10-29T21:55:22.000Z",
+      "tags": [
+        "devops engineering"
+      ]
+    }
+  ]
+}
