@@ -1,25 +1,25 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-30**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-10-31**. Do not edit by hand._
 
-**2 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**3 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2718 | 45 | 1 |
+| greenhouse | 2714 | 44 | 0 |
 | lever | 407 | 2 | 0 |
-| remotive | 12 | 6 | 0 |
-| arbeitnow | 900 | 1 | 1 |
+| remotive | 13 | 6 | 1 |
+| arbeitnow | 900 | 2 | 2 |
 | hn | 164 | 51 | 0 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| gitlab | 1 |
-| GitLab | 1 |
+| Camunda | 2 |
+| Fluence International, Inc. | 1 |
 
 ## Top skills (last 30 days)
 
@@ -27,21 +27,21 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Skill | Postings |
 | --- | --- |
-| ai | 17 |
-| ml | 12 |
+| ai | 18 |
+| ml | 13 |
 | python | 11 |
 | rust | 11 |
+| typescript | 11 |
 | node | 10 |
-| typescript | 10 |
+| react | 10 |
 | java | 9 |
-| react | 9 |
+| javascript | 9 |
 | ruby | 9 |
-| javascript | 8 |
+| next.js | 8 |
 | php | 8 |
 | rails | 8 |
 | c# | 7 |
 | golang | 7 |
-| next.js | 7 |
 
 ## Top companies (last 30 days)
 
@@ -64,6 +64,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-10-31 | 3 | 100% | ai |
 | 2026-10-30 | 2 | 100% | ruby |
 | 2026-10-29 | 5 | 60% | .net |
 | 2026-10-28 | 2 | 0% | — |
@@ -93,4 +94,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-04 | — | — | — |
 | 2026-10-03 | — | — | — |
 | 2026-10-02 | — | — | — |
-| 2026-10-01 | — | — | — |

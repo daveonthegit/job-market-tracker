@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T17:50:09.736Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2714,
+      "matched": 44,
+      "new": 0
+    },
+    {
+      "source": "lever",
+      "fetched": 407,
+      "matched": 2,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 13,
+      "matched": 6,
+      "new": 1
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 2,
+      "new": 2
+    },
+    {
+      "source": "hn",
+      "fetched": 164,
+      "matched": 51,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "remotive:2091165",
+      "source": "remotive",
+      "company": "Fluence International, Inc.",
+      "title": "Full-Stack Developer",
+      "location": "Worldwide",
+      "remote": true,
+      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+      "postedAt": "2026-10-29T18:22:41.000Z",
+      "tags": [
+        "admin",
+        "api",
+        "aws",
+        "backend",
+        "cloud",
+        "docker",
+        "frontend",
+        "fullstack",
+        "javascript",
+        "react",
+        "security",
+        "ui/ux",
+        "ai/ml",
+        "automation",
+        "documentation",
+        "healthcare",
+        "typescript",
+        "web applications",
+        "solid",
+        "json",
+        "serverless",
+        "next.js",
+        "github",
+        "rest",
+        "mental health",
+        "baas",
+        "datadog"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-senior-software-engineer-backend-data-streaming-132472",
+      "source": "arbeitnow",
+      "company": "Camunda",
+      "title": "Senior Software Engineer, Backend - Data Streaming",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-132472",
+      "postedAt": "2026-10-31T15:40:13.000Z",
+      "tags": [
+        "products"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-senior-software-engineer-backend-data-layer-4206",
+      "source": "arbeitnow",
+      "company": "Camunda",
+      "title": "Senior Software Engineer, Backend - Data Layer",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-4206",
+      "postedAt": "2026-10-31T15:40:13.000Z",
+      "tags": [
+        "products"
+      ]
+    }
+  ]
+}
