@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T18:28:35.078Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2713,
+      "matched": 42,
+      "new": 0
+    },
+    {
+      "source": "lever",
+      "fetched": 409,
+      "matched": 2,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 12,
+      "matched": 6,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 3,
+      "new": 1
+    },
+    {
+      "source": "hn",
+      "fetched": 164,
+      "matched": 29,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "arbeitnow:remote-senior-backend-engineer-database-excellence-ruby-5106",
+      "source": "arbeitnow",
+      "company": "gitlab",
+      "title": "Senior Backend Engineer, Database Excellence (Ruby)",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-database-excellence-ruby-5106",
+      "postedAt": "2026-10-31T18:55:27.000Z",
+      "tags": [
+        "data engineering"
+      ]
+    }
+  ]
+}

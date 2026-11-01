@@ -1,25 +1,24 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-10-31**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-01**. Do not edit by hand._
 
-**3 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**1 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2714 | 44 | 0 |
-| lever | 407 | 2 | 0 |
-| remotive | 13 | 6 | 1 |
-| arbeitnow | 900 | 2 | 2 |
-| hn | 164 | 51 | 0 |
+| greenhouse | 2713 | 42 | 0 |
+| lever | 409 | 2 | 0 |
+| remotive | 12 | 6 | 0 |
+| arbeitnow | 900 | 3 | 1 |
+| hn | 164 | 29 | 0 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Camunda | 2 |
-| Fluence International, Inc. | 1 |
+| gitlab | 1 |
 
 ## Top skills (last 30 days)
 
@@ -34,9 +33,9 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | typescript | 11 |
 | node | 10 |
 | react | 10 |
+| ruby | 10 |
 | java | 9 |
 | javascript | 9 |
-| ruby | 9 |
 | next.js | 8 |
 | php | 8 |
 | rails | 8 |
@@ -64,6 +63,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-01 | 1 | 100% | ruby |
 | 2026-10-31 | 3 | 100% | ai |
 | 2026-10-30 | 2 | 100% | ruby |
 | 2026-10-29 | 5 | 60% | .net |
@@ -93,4 +93,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-05 | — | — | — |
 | 2026-10-04 | — | — | — |
 | 2026-10-03 | — | — | — |
-| 2026-10-02 | — | — | — |
