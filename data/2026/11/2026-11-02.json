@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T22:23:34.581Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2719,
+      "matched": 39,
+      "new": 1
+    },
+    {
+      "source": "lever",
+      "fetched": 410,
+      "matched": 3,
+      "new": 1
+    },
+    {
+      "source": "remotive",
+      "fetched": 12,
+      "matched": 5,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 0,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 71,
+      "matched": 16,
+      "new": 13
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:vercel:6240736004",
+      "source": "greenhouse",
+      "company": "Vercel",
+      "title": "Software Engineer, Compute",
+      "location": "Hybrid - San Francisco",
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6240736004",
+      "postedAt": "2026-11-02T17:26:43.000Z",
+      "tags": []
+    },
+    {
+      "id": "lever:palantir:6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a",
+      "source": "lever",
+      "company": "Palantir",
+      "title": "Software Engineer - Applied AI, Defense Applications",
+      "location": "New York, NY",
+      "remote": false,
+      "url": "https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a",
+      "postedAt": "2026-11-02T22:20:40.973Z",
+      "tags": [
+        "dev"
+      ]
+    },
+    {
+      "id": "hn:50339282",
+      "source": "hn",
+      "company": "Starbridge",
+      "title": "Senior Product Engineer",
+      "location": "NYC / https://starbridge.ai/ Starbridge is building an AI platform that turns large-scale public and enterprise data into reliable sales insights. We are early, moving fast, and building from zero to one, so this role will have huge ownership and product impact.",
+      "remote": false,
+      "url": "https://news.ycombinator.com/item?id=50339282",
+      "postedAt": "2026-11-02T16:28:53.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50339308",
+      "source": "hn",
+      "company": "Kraus Hamdani Aerospace",
+      "title": "Software Engineer",
+      "location": "REMOTE (US) or ONSITE in Reno, NV",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50339308",
+      "postedAt": "2026-11-02T16:30:26.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50339511",
+      "source": "hn",
+      "company": "Equall",
+      "title": "Backend Engineer, Foundations",
+      "location": "New York, NY / ONSITE",
+      "remote": false,
+      "url": "https://news.ycombinator.com/item?id=50339511",
+      "postedAt": "2026-11-02T16:41:15.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50339975",
+      "source": "hn",
+      "company": "humans&",
+      "title": "Product Engineer (Member of Technical Staff)",
+      "location": "San Francisco / ONSITE",
+      "remote": false,
+      "url": "https://news.ycombinator.com/item?id=50339975",
+      "postedAt": "2026-11-02T17:08:46.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50340242",
+      "source": "hn",
+      "company": "Rune Labs",
+      "title": "Senior or Lead Backend Engineer",
+      "location": "Remote (US, CA)",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50340242",
+      "postedAt": "2026-11-02T17:24:52.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50340381",
+      "source": "hn",
+      "company": "Opsin Security",
+      "title": "Product, Backend & AI Engineers",
+      "location": "Hybrid / REMOTE (US)",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50340381",
+      "postedAt": "2026-11-02T17:34:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50340434",
+      "source": "hn",
+      "company": "Voluntas",
+      "title": "Software Engineer",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50340434",
+      "postedAt": "2026-11-02T17:37:08.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50340600",
+      "source": "hn",
+      "company": "Distru",
+      "title": "AI Product Engineer",
+      "location": "REMOTE (Americas & Europe)",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50340600",
+      "postedAt": "2026-11-02T17:46:45.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50340820",
+      "source": "hn",
+      "company": "Postscript",
+      "title": "Senior Software Engineer, Full Stack",
+      "location": "REMOTE (US, Canada)",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50340820",
+      "postedAt": "2026-11-02T18:00:14.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50340840",
+      "source": "hn",
+      "company": "Mozilla",
+      "title": "Sr. Staff Software Engineer, Browser (New Products)",
+      "location": "REMOTE (US or Canada)",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50340840",
+      "postedAt": "2026-11-02T18:01:01.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50340983",
+      "source": "hn",
+      "company": "VIVA Finance",
+      "title": "Front-End + Mobile Developer",
+      "location": "Atlanta, GA (In Person)",
+      "remote": false,
+      "url": "https://news.ycombinator.com/item?id=50340983",
+      "postedAt": "2026-11-02T18:10:03.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50341284",
+      "source": "hn",
+      "company": "Uncountable",
+      "title": "Full-Stack Engineering",
+      "location": "NY, SF, London (UK) & Toronto (CA) (In-Person)",
+      "remote": false,
+      "url": "https://news.ycombinator.com/item?id=50341284",
+      "postedAt": "2026-11-02T18:28:04.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50343014",
+      "source": "hn",
+      "company": "Nivelo",
+      "title": "Senior Backend Engineer and Senior SDET roles",
+      "location": "REMOTE (US)",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50343014",
+      "postedAt": "2026-11-02T20:14:02.000Z",
+      "tags": []
+    }
+  ]
+}
