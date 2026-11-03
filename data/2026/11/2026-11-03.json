@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T20:11:09.717Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2704,
+      "matched": 40,
+      "new": 4
+    },
+    {
+      "source": "lever",
+      "fetched": 409,
+      "matched": 3,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 10,
+      "matched": 5,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 4,
+      "new": 4
+    },
+    {
+      "source": "hn",
+      "fetched": 115,
+      "matched": 25,
+      "new": 8
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:vercel:6242246004",
+      "source": "greenhouse",
+      "company": "Vercel",
+      "title": "Software Engineer, Agent Auth",
+      "location": "Hybrid - San Francisco",
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6242246004",
+      "postedAt": "2026-11-03T16:31:46.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:vercel:6242244004",
+      "source": "greenhouse",
+      "company": "Vercel",
+      "title": "Software Engineer, Connect",
+      "location": "Hybrid - San Francisco",
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6242244004",
+      "postedAt": "2026-11-03T16:30:13.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:gitlab:8922249002",
+      "source": "greenhouse",
+      "company": "GitLab",
+      "title": "Intermediate Fullstack Engineer, Subscription Lifecycle",
+      "location": "Remote, Canada; Remote, United States",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922249002",
+      "postedAt": "2026-11-03T16:38:14.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:reddit:8337444",
+      "source": "greenhouse",
+      "company": "Reddit",
+      "title": "Software Engineer, Infrastructure Engineering",
+      "location": "Remote - United States",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8337444",
+      "postedAt": "2026-11-02T23:28:32.000Z",
+      "tags": []
+    },
+    {
+      "id": "arbeitnow:remote-staff-ai-software-engineer-302654",
+      "source": "arbeitnow",
+      "company": "Matchmatch",
+      "title": "Staff AI Software Engineer",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/matchmatch/remote-staff-ai-software-engineer-302654",
+      "postedAt": "2026-11-03T12:40:14.000Z",
+      "tags": [
+        "software development"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-software-engineer-33490",
+      "source": "arbeitnow",
+      "company": "Hozah",
+      "title": "Software Engineer",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hozah/remote-software-engineer-33490",
+      "postedAt": "2026-11-03T15:40:31.000Z",
+      "tags": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-senior-software-engineer-71703",
+      "source": "arbeitnow",
+      "company": "Hozah",
+      "title": "Senior Software Engineer",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hozah/remote-senior-software-engineer-71703",
+      "postedAt": "2026-11-03T15:40:31.000Z",
+      "tags": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-full-stack-engineer-backend-leaning-studio-284608",
+      "source": "arbeitnow",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer (Backend Leaning) - Studio",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-studio-284608",
+      "postedAt": "2026-11-03T00:40:12.000Z",
+      "tags": [
+        "engineering & product"
+      ]
+    },
+    {
+      "id": "hn:50344816",
+      "source": "hn",
+      "company": "Silkline",
+      "title": "Software Engineer, Deployment Strategist",
+      "location": "Chicago, Seattle / ONSITE",
+      "remote": false,
+      "url": "https://news.ycombinator.com/item?id=50344816",
+      "postedAt": "2026-11-02T22:24:23.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50346184",
+      "source": "hn",
+      "company": "Hatch",
+      "title": "Staff Backend Engineer",
+      "location": "REMOTE (US/Canada, Pacific Time hours)",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50346184",
+      "postedAt": "2026-11-03T00:12:07.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50346665",
+      "source": "hn",
+      "company": "Telescope Partners",
+      "title": "Software Engineer & Data Scientist",
+      "location": "Remote - AMERICAS ONLY",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50346665",
+      "postedAt": "2026-11-03T01:08:34.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50347217",
+      "source": "hn",
+      "company": "Reddit",
+      "title": "Senior and Staff Full-stack Engineers",
+      "location": "REMOTE(US)",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50347217",
+      "postedAt": "2026-11-03T02:27:38.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50348145",
+      "source": "hn",
+      "company": "VALIS",
+      "title": "Software Engineer, new product line",
+      "location": "REMOTE (US, East Coast hours)",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50348145",
+      "postedAt": "2026-11-03T04:39:27.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50350981",
+      "source": "hn",
+      "company": "Marker Learning",
+      "title": "Senior Full-Stack Engineer (Frontend-Leaning)",
+      "location": "Remote, US only",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50350981",
+      "postedAt": "2026-11-03T12:07:36.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50352134",
+      "source": "hn",
+      "company": "Avoca",
+      "title": "Full-Stack Engineers + FDEs",
+      "location": "ONSITE (NYC,US)",
+      "remote": false,
+      "url": "https://news.ycombinator.com/item?id=50352134",
+      "postedAt": "2026-11-03T14:05:06.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50353098",
+      "source": "hn",
+      "company": "Clad",
+      "title": "Software Engineer",
+      "location": "NYC",
+      "remote": false,
+      "url": "https://news.ycombinator.com/item?id=50353098",
+      "postedAt": "2026-11-03T15:19:35.000Z",
+      "tags": []
+    }
+  ]
+}

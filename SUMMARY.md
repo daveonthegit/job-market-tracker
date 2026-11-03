@@ -1,33 +1,33 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-11-02**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-03**. Do not edit by hand._
 
-**15 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**16 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2719 | 39 | 1 |
-| lever | 410 | 3 | 1 |
-| remotive | 12 | 5 | 0 |
-| arbeitnow | 900 | 0 | 0 |
-| hn | 71 | 16 | 13 |
+| greenhouse | 2704 | 40 | 4 |
+| lever | 409 | 3 | 0 |
+| remotive | 10 | 5 | 0 |
+| arbeitnow | 900 | 4 | 4 |
+| hn | 115 | 25 | 8 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Distru | 1 |
-| Equall | 1 |
-| humans& | 1 |
-| Kraus Hamdani Aerospace | 1 |
-| Mozilla | 1 |
-| Nivelo | 1 |
-| Opsin Security | 1 |
-| Palantir | 1 |
-| Postscript | 1 |
-| Rune Labs | 1 |
+| Hozah | 2 |
+| Reddit | 2 |
+| Vercel | 2 |
+| Avoca | 1 |
+| Clad | 1 |
+| ElevenLabs | 1 |
+| GitLab | 1 |
+| Hatch | 1 |
+| Marker Learning | 1 |
+| Matchmatch | 1 |
 
 ## Top skills (last 30 days)
 
@@ -35,7 +35,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Skill | Postings |
 | --- | --- |
-| ai | 21 |
+| ai | 22 |
 | ml | 13 |
 | python | 11 |
 | rust | 11 |
@@ -55,16 +55,16 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Company | New postings |
 | --- | --- |
-| Reddit | 23 |
+| Reddit | 25 |
 | Stripe | 23 |
 | Gusto, Inc. | 11 |
 | Discord | 10 |
 | Robinhood | 10 |
+| GitLab | 9 |
 | Asana | 8 |
-| GitLab | 8 |
-| ElevenLabs | 7 |
+| ElevenLabs | 8 |
+| Vercel | 7 |
 | Circuithub | 6 |
-| Datadog | 6 |
 
 ## 30-day trend
 
@@ -72,6 +72,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-03 | 16 | 69% | ai |
 | 2026-11-02 | 15 | 53% | ai |
 | 2026-11-01 | 1 | 100% | ruby |
 | 2026-10-31 | 3 | 100% | ai |
@@ -101,4 +102,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-07 | 123 | 50% | ai |
 | 2026-10-06 | — | — | — |
 | 2026-10-05 | — | — | — |
-| 2026-10-04 | — | — | — |
