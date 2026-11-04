@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T20:28:43.252Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2722,
+      "matched": 41,
+      "new": 2
+    },
+    {
+      "source": "lever",
+      "fetched": 413,
+      "matched": 3,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 11,
+      "matched": 5,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 1,
+      "new": 1
+    },
+    {
+      "source": "hn",
+      "fetched": 123,
+      "matched": 28,
+      "new": 2
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:reddit:8350749",
+      "source": "greenhouse",
+      "company": "Reddit",
+      "title": "Senior Software Engineer, GRC",
+      "location": "Remote - United States",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8350749",
+      "postedAt": "2026-11-03T20:11:18.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:robinhood:8333757",
+      "source": "greenhouse",
+      "company": "Robinhood",
+      "title": "Staff Software Engineer, Government Products",
+      "location": "New York, NY",
+      "remote": false,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8333757?t=gh_src=&gh_jid=8333757",
+      "postedAt": "2026-11-04T01:21:44.000Z",
+      "tags": []
+    },
+    {
+      "id": "arbeitnow:remote-senior-staff-software-engineer-sap-connectors-462420",
+      "source": "arbeitnow",
+      "company": "Fivetran",
+      "title": "Senior Staff Software Engineer - SAP Connectors",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.nl/jobs/companies/fivetran/remote-senior-staff-software-engineer-sap-connectors-462420",
+      "postedAt": "2026-11-04T09:55:23.000Z",
+      "tags": [
+        "engineering department"
+      ]
+    },
+    {
+      "id": "hn:50363693",
+      "source": "hn",
+      "company": "Bikky",
+      "title": "Senior Software Engineer",
+      "location": "Hybrid / NYC Bikky / Hybrid / NYC",
+      "remote": false,
+      "url": "https://news.ycombinator.com/item?id=50363693",
+      "postedAt": "2026-11-04T10:40:38.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50365279",
+      "source": "hn",
+      "company": "Search Atlas",
+      "title": "Product Engineer (PM)",
+      "location": "REMOTE (anywhere, EST hours)",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50365279",
+      "postedAt": "2026-11-04T13:31:28.000Z",
+      "tags": []
+    }
+  ]
+}

@@ -1,33 +1,28 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-11-03**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-04**. Do not edit by hand._
 
-**16 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**5 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2704 | 40 | 4 |
-| lever | 409 | 3 | 0 |
-| remotive | 10 | 5 | 0 |
-| arbeitnow | 900 | 4 | 4 |
-| hn | 115 | 25 | 8 |
+| greenhouse | 2722 | 41 | 2 |
+| lever | 413 | 3 | 0 |
+| remotive | 11 | 5 | 0 |
+| arbeitnow | 900 | 1 | 1 |
+| hn | 123 | 28 | 2 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Hozah | 2 |
-| Reddit | 2 |
-| Vercel | 2 |
-| Avoca | 1 |
-| Clad | 1 |
-| ElevenLabs | 1 |
-| GitLab | 1 |
-| Hatch | 1 |
-| Marker Learning | 1 |
-| Matchmatch | 1 |
+| Bikky | 1 |
+| Fivetran | 1 |
+| Reddit | 1 |
+| Robinhood | 1 |
+| Search Atlas | 1 |
 
 ## Top skills (last 30 days)
 
@@ -55,11 +50,11 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Company | New postings |
 | --- | --- |
-| Reddit | 25 |
+| Reddit | 26 |
 | Stripe | 23 |
 | Gusto, Inc. | 11 |
+| Robinhood | 11 |
 | Discord | 10 |
-| Robinhood | 10 |
 | GitLab | 9 |
 | Asana | 8 |
 | ElevenLabs | 8 |
@@ -72,6 +67,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-04 | 5 | 60% | — |
 | 2026-11-03 | 16 | 69% | ai |
 | 2026-11-02 | 15 | 53% | ai |
 | 2026-11-01 | 1 | 100% | ruby |
@@ -101,4 +97,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-08 | 7 | 29% | ai |
 | 2026-10-07 | 123 | 50% | ai |
 | 2026-10-06 | — | — | — |
-| 2026-10-05 | — | — | — |
