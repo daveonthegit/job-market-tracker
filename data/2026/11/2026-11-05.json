@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T20:44:56.343Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2722,
+      "matched": 40,
+      "new": 1
+    },
+    {
+      "source": "lever",
+      "fetched": 417,
+      "matched": 4,
+      "new": 1
+    },
+    {
+      "source": "remotive",
+      "fetched": 10,
+      "matched": 5,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 2,
+      "new": 1
+    },
+    {
+      "source": "hn",
+      "fetched": 130,
+      "matched": 28,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:vercel:6195153004",
+      "source": "greenhouse",
+      "company": "Vercel",
+      "title": "Software Engineer, Backend",
+      "location": "Hybrid - San Francisco, New York City",
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6195153004",
+      "postedAt": "2026-11-04T22:00:22.000Z",
+      "tags": []
+    },
+    {
+      "id": "lever:palantir:9aadca04-df88-4b46-95d8-c3b2628b30b0",
+      "source": "lever",
+      "company": "Palantir",
+      "title": "Backend Software Engineer - Data Connectors",
+      "location": "New York, NY",
+      "remote": false,
+      "url": "https://jobs.lever.co/palantir/9aadca04-df88-4b46-95d8-c3b2628b30b0",
+      "postedAt": "2026-11-04T20:57:06.330Z",
+      "tags": [
+        "dev"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-senior-software-engineer-search-ai-82663",
+      "source": "arbeitnow",
+      "company": "Muckrack",
+      "title": "Senior Software Engineer, Search & AI",
+      "location": "Remote (Bulgaria, Canada, Ireland, United States)",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-senior-software-engineer-search-ai-82663",
+      "postedAt": "2026-11-05T12:55:17.000Z",
+      "tags": [
+        "engineering - software engineering"
+      ]
+    }
+  ]
+}

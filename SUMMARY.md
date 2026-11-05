@@ -1,28 +1,26 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-11-04**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-05**. Do not edit by hand._
 
-**5 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**3 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2722 | 41 | 2 |
-| lever | 413 | 3 | 0 |
-| remotive | 11 | 5 | 0 |
-| arbeitnow | 900 | 1 | 1 |
-| hn | 123 | 28 | 2 |
+| greenhouse | 2722 | 40 | 1 |
+| lever | 417 | 4 | 1 |
+| remotive | 10 | 5 | 0 |
+| arbeitnow | 900 | 2 | 1 |
+| hn | 130 | 28 | 0 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Bikky | 1 |
-| Fivetran | 1 |
-| Reddit | 1 |
-| Robinhood | 1 |
-| Search Atlas | 1 |
+| Muckrack | 1 |
+| Palantir | 1 |
+| Vercel | 1 |
 
 ## Top skills (last 30 days)
 
@@ -30,7 +28,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Skill | Postings |
 | --- | --- |
-| ai | 22 |
+| ai | 23 |
 | ml | 13 |
 | python | 11 |
 | rust | 11 |
@@ -58,7 +56,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | GitLab | 9 |
 | Asana | 8 |
 | ElevenLabs | 8 |
-| Vercel | 7 |
+| Vercel | 8 |
 | Circuithub | 6 |
 
 ## 30-day trend
@@ -67,6 +65,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-05 | 3 | 0% | ai |
 | 2026-11-04 | 5 | 60% | — |
 | 2026-11-03 | 16 | 69% | ai |
 | 2026-11-02 | 15 | 53% | ai |
@@ -96,4 +95,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-09 | 5 | 60% | — |
 | 2026-10-08 | 7 | 29% | ai |
 | 2026-10-07 | 123 | 50% | ai |
-| 2026-10-06 | — | — | — |
