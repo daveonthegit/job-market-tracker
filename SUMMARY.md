@@ -1,6 +1,6 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-11-05**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-06**. Do not edit by hand._
 
 **3 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
@@ -8,19 +8,19 @@ _Generated automatically from `data/` for **2026-11-05**. Do not edit by hand._
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2722 | 40 | 1 |
-| lever | 417 | 4 | 1 |
-| remotive | 10 | 5 | 0 |
+| greenhouse | 2724 | 38 | 1 |
+| lever | 411 | 4 | 0 |
+| remotive | 12 | 5 | 0 |
 | arbeitnow | 900 | 2 | 1 |
-| hn | 130 | 28 | 0 |
+| hn | 134 | 29 | 1 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Muckrack | 1 |
-| Palantir | 1 |
-| Vercel | 1 |
+| Figma | 1 |
+| gitlab | 1 |
+| Piramidal | 1 |
 
 ## Top skills (last 30 days)
 
@@ -28,36 +28,36 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Skill | Postings |
 | --- | --- |
-| ai | 23 |
-| ml | 13 |
-| python | 11 |
-| rust | 11 |
-| typescript | 11 |
-| node | 10 |
-| react | 10 |
-| ruby | 10 |
-| java | 9 |
-| javascript | 9 |
-| next.js | 8 |
-| php | 8 |
-| rails | 8 |
-| c# | 7 |
-| golang | 7 |
+| ai | 12 |
+| python | 4 |
+| rust | 4 |
+| ml | 3 |
+| ruby | 3 |
+| typescript | 3 |
+| docker | 2 |
+| java | 2 |
+| javascript | 2 |
+| next.js | 2 |
+| react | 2 |
+| .net | 1 |
+| angular | 1 |
+| aws | 1 |
+| c# | 1 |
 
 ## Top companies (last 30 days)
 
 | Company | New postings |
 | --- | --- |
-| Reddit | 26 |
-| Stripe | 23 |
-| Gusto, Inc. | 11 |
-| Robinhood | 11 |
-| Discord | 10 |
-| GitLab | 9 |
-| Asana | 8 |
+| Reddit | 14 |
+| Stripe | 13 |
 | ElevenLabs | 8 |
-| Vercel | 8 |
 | Circuithub | 6 |
+| GitLab | 5 |
+| Robinhood | 5 |
+| Swarmaero | 5 |
+| Palantir | 4 |
+| Vercel | 4 |
+| Asana | 3 |
 
 ## 30-day trend
 
@@ -65,6 +65,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-06 | 3 | 33% | ai |
 | 2026-11-05 | 3 | 0% | ai |
 | 2026-11-04 | 5 | 60% | — |
 | 2026-11-03 | 16 | 69% | ai |
@@ -94,4 +95,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-10 | 3 | 67% | — |
 | 2026-10-09 | 5 | 60% | — |
 | 2026-10-08 | 7 | 29% | ai |
-| 2026-10-07 | 123 | 50% | ai |

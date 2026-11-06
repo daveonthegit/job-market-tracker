@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T20:00:05.208Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2724,
+      "matched": 38,
+      "new": 1
+    },
+    {
+      "source": "lever",
+      "fetched": 411,
+      "matched": 4,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 12,
+      "matched": 5,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 2,
+      "new": 1
+    },
+    {
+      "source": "hn",
+      "fetched": 134,
+      "matched": 29,
+      "new": 1
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:figma:6242561004",
+      "source": "greenhouse",
+      "company": "Figma",
+      "title": "Software Engineer - Application Platform",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "remote": false,
+      "url": "https://boards.greenhouse.io/figma/jobs/6242561004?gh_jid=6242561004",
+      "postedAt": "2026-11-06T17:11:16.000Z",
+      "tags": []
+    },
+    {
+      "id": "arbeitnow:remote-senior-backend-engineer-ai-engineering-chat-363501",
+      "source": "arbeitnow",
+      "company": "gitlab",
+      "title": "Senior Backend Engineer, AI Engineering: Chat",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-ai-engineering-chat-363501",
+      "postedAt": "2026-11-06T12:55:24.000Z",
+      "tags": [
+        "ai engineering"
+      ]
+    },
+    {
+      "id": "hn:50384764",
+      "source": "hn",
+      "company": "Piramidal",
+      "title": "Senior Backend Engineer",
+      "location": "New York, NY",
+      "remote": false,
+      "url": "https://news.ycombinator.com/item?id=50384764",
+      "postedAt": "2026-11-05T21:34:32.000Z",
+      "tags": []
+    }
+  ]
+}
