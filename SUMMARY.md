@@ -1,26 +1,22 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-11-06**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-07**. Do not edit by hand._
 
-**3 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**0 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2724 | 38 | 1 |
+| greenhouse | 2733 | 36 | 0 |
 | lever | 411 | 4 | 0 |
 | remotive | 12 | 5 | 0 |
-| arbeitnow | 900 | 2 | 1 |
-| hn | 134 | 29 | 1 |
+| arbeitnow | 900 | 0 | 0 |
+| hn | 134 | 29 | 0 |
 
 ## Top companies today
 
-| Company | New postings |
-| --- | --- |
-| Figma | 1 |
-| gitlab | 1 |
-| Piramidal | 1 |
+_No new postings today._
 
 ## Top skills (last 30 days)
 
@@ -28,7 +24,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Skill | Postings |
 | --- | --- |
-| ai | 12 |
+| ai | 11 |
 | python | 4 |
 | rust | 4 |
 | ml | 3 |
@@ -48,16 +44,16 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Company | New postings |
 | --- | --- |
-| Reddit | 14 |
 | Stripe | 13 |
+| Reddit | 11 |
 | ElevenLabs | 8 |
 | Circuithub | 6 |
 | GitLab | 5 |
-| Robinhood | 5 |
 | Swarmaero | 5 |
 | Palantir | 4 |
+| Robinhood | 4 |
 | Vercel | 4 |
-| Asana | 3 |
+| Datadog | 3 |
 
 ## 30-day trend
 
@@ -65,6 +61,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-07 | 0 | — | — |
 | 2026-11-06 | 3 | 33% | ai |
 | 2026-11-05 | 3 | 0% | ai |
 | 2026-11-04 | 5 | 60% | — |
@@ -94,4 +91,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-11 | 0 | — | — |
 | 2026-10-10 | 3 | 67% | — |
 | 2026-10-09 | 5 | 60% | — |
-| 2026-10-08 | 7 | 29% | ai |
