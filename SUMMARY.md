@@ -1,22 +1,25 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-11-07**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-08**. Do not edit by hand._
 
-**0 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**6 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2733 | 36 | 0 |
+| greenhouse | 2734 | 33 | 0 |
 | lever | 411 | 4 | 0 |
-| remotive | 12 | 5 | 0 |
-| arbeitnow | 900 | 0 | 0 |
+| remotive | 13 | 5 | 0 |
+| arbeitnow | 900 | 9 | 6 |
 | hn | 134 | 29 | 0 |
 
 ## Top companies today
 
-_No new postings today._
+| Company | New postings |
+| --- | --- |
+| ElevenLabs | 4 |
+| Pennylane SAS | 2 |
 
 ## Top skills (last 30 days)
 
@@ -25,35 +28,35 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | Skill | Postings |
 | --- | --- |
 | ai | 11 |
+| ruby | 5 |
 | python | 4 |
 | rust | 4 |
 | ml | 3 |
-| ruby | 3 |
+| react | 3 |
 | typescript | 3 |
 | docker | 2 |
 | java | 2 |
 | javascript | 2 |
 | next.js | 2 |
-| react | 2 |
+| rails | 2 |
 | .net | 1 |
 | angular | 1 |
 | aws | 1 |
-| c# | 1 |
 
 ## Top companies (last 30 days)
 
 | Company | New postings |
 | --- | --- |
-| Stripe | 13 |
+| Stripe | 12 |
 | Reddit | 11 |
-| ElevenLabs | 8 |
+| ElevenLabs | 10 |
 | Circuithub | 6 |
 | GitLab | 5 |
 | Swarmaero | 5 |
 | Palantir | 4 |
-| Robinhood | 4 |
 | Vercel | 4 |
 | Datadog | 3 |
+| gitlab | 3 |
 
 ## 30-day trend
 
@@ -61,6 +64,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-08 | 6 | 100% | ruby |
 | 2026-11-07 | 0 | — | — |
 | 2026-11-06 | 3 | 33% | ai |
 | 2026-11-05 | 3 | 0% | ai |
@@ -90,4 +94,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-12 | 1 | 100% | ai |
 | 2026-10-11 | 0 | — | — |
 | 2026-10-10 | 3 | 67% | — |
-| 2026-10-09 | 5 | 60% | — |

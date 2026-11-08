@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T18:25:05.228Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2734,
+      "matched": 33,
+      "new": 0
+    },
+    {
+      "source": "lever",
+      "fetched": 411,
+      "matched": 4,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 13,
+      "matched": 5,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 9,
+      "new": 6
+    },
+    {
+      "source": "hn",
+      "fetched": 134,
+      "matched": 29,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "arbeitnow:remote-senior-fullstack-software-engineer-ruby-react-ts-388753",
+      "source": "arbeitnow",
+      "company": "Pennylane SAS",
+      "title": "Senior Fullstack Software Engineer (Ruby/React & TS)",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-fullstack-software-engineer-ruby-react-ts-388753",
+      "postedAt": "2026-11-08T15:40:18.000Z",
+      "tags": [
+        "tech"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-senior-backend-software-engineer-ruby-on-rails-359527",
+      "source": "arbeitnow",
+      "company": "Pennylane SAS",
+      "title": "Senior Backend Software Engineer (Ruby on Rails)",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-backend-software-engineer-ruby-on-rails-359527",
+      "postedAt": "2026-11-08T15:40:18.000Z",
+      "tags": [
+        "tech"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-full-stack-engineer-elevencreative-enterprise-233049",
+      "source": "arbeitnow",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer - ElevenCreative Enterprise",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-elevencreative-enterprise-233049",
+      "postedAt": "2026-11-08T00:40:11.000Z",
+      "tags": [
+        "engineering & product"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-full-stack-engineer-ads-engine-93467",
+      "source": "arbeitnow",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer - Ads Engine",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-ads-engine-93467",
+      "postedAt": "2026-11-08T00:40:11.000Z",
+      "tags": [
+        "engineering & product"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-full-stack-engineer-backend-leaning-payments-engineering-222551",
+      "source": "arbeitnow",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-payments-engineering-222551",
+      "postedAt": "2026-11-08T00:40:11.000Z",
+      "tags": [
+        "engineering & product"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-full-stack-engineer-backend-leaning-platform-engineering-280315",
+      "source": "arbeitnow",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-platform-engineering-280315",
+      "postedAt": "2026-11-08T00:40:11.000Z",
+      "tags": [
+        "engineering & product"
+      ]
+    }
+  ]
+}
