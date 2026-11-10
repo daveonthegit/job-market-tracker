@@ -1,28 +1,22 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-11-09**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-10**. Do not edit by hand._
 
-**5 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**0 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2737 | 32 | 1 |
-| lever | 405 | 4 | 0 |
-| remotive | 12 | 5 | 0 |
-| arbeitnow | 900 | 2 | 0 |
-| hn | 140 | 33 | 4 |
+| greenhouse | 2741 | 30 | 0 |
+| lever | 404 | 4 | 0 |
+| remotive | 13 | 5 | 0 |
+| arbeitnow | 900 | 0 | 0 |
+| hn | 141 | 33 | 0 |
 
 ## Top companies today
 
-| Company | New postings |
-| --- | --- |
-| Collabify | 1 |
-| Gusto, Inc. | 1 |
-| OpenTrain AI | 1 |
-| Polymath | 1 |
-| Stealth Health-Tech Startup | 1 |
+_No new postings today._
 
 ## Top skills (last 30 days)
 
@@ -67,6 +61,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-10 | 0 | — | — |
 | 2026-11-09 | 5 | 60% | ai |
 | 2026-11-08 | 6 | 100% | ruby |
 | 2026-11-07 | 0 | — | — |
@@ -96,4 +91,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-14 | 6 | 83% | python |
 | 2026-10-13 | 9 | 78% | — |
 | 2026-10-12 | 1 | 100% | ai |
-| 2026-10-11 | 0 | — | — |
