@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T20:16:34.382Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2767,
+      "matched": 31,
+      "new": 1
+    },
+    {
+      "source": "lever",
+      "fetched": 404,
+      "matched": 4,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 13,
+      "matched": 4,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 1,
+      "new": 1
+    },
+    {
+      "source": "hn",
+      "fetched": 144,
+      "matched": 33,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:reddit:8350761",
+      "source": "greenhouse",
+      "company": "Reddit",
+      "title": "Principal Software Engineer, Infrastructure",
+      "location": "Remote - United States",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8350761",
+      "postedAt": "2026-11-11T16:07:20.000Z",
+      "tags": []
+    },
+    {
+      "id": "arbeitnow:remote-full-stack-engineer-elevenapi-488657",
+      "source": "arbeitnow",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer - ElevenAPI",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-elevenapi-488657",
+      "postedAt": "2026-11-11T06:40:13.000Z",
+      "tags": [
+        "engineering & product"
+      ]
+    }
+  ]
+}

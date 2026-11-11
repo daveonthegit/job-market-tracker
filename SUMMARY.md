@@ -1,22 +1,25 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-11-10**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-11**. Do not edit by hand._
 
-**0 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**2 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2741 | 30 | 0 |
+| greenhouse | 2767 | 31 | 1 |
 | lever | 404 | 4 | 0 |
-| remotive | 13 | 5 | 0 |
-| arbeitnow | 900 | 0 | 0 |
-| hn | 141 | 33 | 0 |
+| remotive | 13 | 4 | 0 |
+| arbeitnow | 900 | 1 | 1 |
+| hn | 144 | 33 | 0 |
 
 ## Top companies today
 
-_No new postings today._
+| Company | New postings |
+| --- | --- |
+| ElevenLabs | 1 |
+| Reddit | 1 |
 
 ## Top skills (last 30 days)
 
@@ -24,7 +27,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Skill | Postings |
 | --- | --- |
-| ai | 12 |
+| ai | 11 |
 | ruby | 5 |
 | python | 4 |
 | rust | 4 |
@@ -44,9 +47,9 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Company | New postings |
 | --- | --- |
+| Reddit | 12 |
 | Stripe | 12 |
-| Reddit | 11 |
-| ElevenLabs | 10 |
+| ElevenLabs | 11 |
 | Circuithub | 6 |
 | Swarmaero | 5 |
 | Palantir | 4 |
@@ -61,6 +64,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-11 | 2 | 100% | — |
 | 2026-11-10 | 0 | — | — |
 | 2026-11-09 | 5 | 60% | ai |
 | 2026-11-08 | 6 | 100% | ruby |
@@ -90,4 +94,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-15 | 5 | 40% | python |
 | 2026-10-14 | 6 | 83% | python |
 | 2026-10-13 | 9 | 78% | — |
-| 2026-10-12 | 1 | 100% | ai |
