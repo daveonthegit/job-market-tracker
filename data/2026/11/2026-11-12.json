@@ -1,0 +1,153 @@
+{
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T20:58:17.932Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2750,
+      "matched": 32,
+      "new": 1
+    },
+    {
+      "source": "lever",
+      "fetched": 401,
+      "matched": 4,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 14,
+      "matched": 5,
+      "new": 1
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 1,
+      "new": 1
+    },
+    {
+      "source": "hn",
+      "fetched": 148,
+      "matched": 35,
+      "new": 3
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:discord:8731320002",
+      "source": "greenhouse",
+      "company": "Discord",
+      "title": "Senior Software Engineer, Consumer Revenue",
+      "location": "San Francisco Bay Area",
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8731320002",
+      "postedAt": "2026-11-12T17:05:32.000Z",
+      "tags": []
+    },
+    {
+      "id": "remotive:2091136",
+      "source": "remotive",
+      "company": "Lemon.io",
+      "title": "Senior React Full-stack Developer",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "remote": true,
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
+      "postedAt": "2026-11-10T14:25:05.000Z",
+      "tags": [
+        ".net",
+        "android",
+        "aws",
+        "azure",
+        "c",
+        "c#",
+        "c++",
+        "data science",
+        "fullstack",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "magento",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "react js",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "ui/ux",
+        "wordpress",
+        "blockchain",
+        "ai/ml",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "unity",
+        "electron",
+        "spring",
+        "laravel",
+        "ethereum",
+        "graphic design",
+        "typescript",
+        "angular",
+        "gcp",
+        "firebase",
+        "data engineering",
+        "site reliability",
+        "symfony",
+        "next.js",
+        "flutter"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-software-engineer-backend-engineering-operations-483915",
+      "source": "arbeitnow",
+      "company": "Camunda",
+      "title": "Software Engineer, Backend - Engineering Operations",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-backend-engineering-operations-483915",
+      "postedAt": "2026-11-12T06:40:11.000Z",
+      "tags": [
+        "products"
+      ]
+    },
+    {
+      "id": "hn:50347792",
+      "source": "hn",
+      "company": "KSC Trading",
+      "title": "Senior Backend Software Engineer",
+      "location": "Remote or NYC Hybrid",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50347792",
+      "postedAt": "2026-11-03T03:45:03.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50460238",
+      "source": "hn",
+      "company": "Kroo",
+      "title": "Backend Software Engineer",
+      "location": "NYC, Hybrid",
+      "remote": false,
+      "url": "https://news.ycombinator.com/item?id=50460238",
+      "postedAt": "2026-11-11T23:07:17.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50460895",
+      "source": "hn",
+      "company": "Foji",
+      "title": "Full Stack Engineer (TypeScript/React/Node)",
+      "location": "Atlanta (hybrid) or REMOTE (US: Utah, Central or Eastern time)",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50460895",
+      "postedAt": "2026-11-12T00:03:47.000Z",
+      "tags": []
+    }
+  ]
+}
