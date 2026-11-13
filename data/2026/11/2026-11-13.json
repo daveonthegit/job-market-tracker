@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T20:33:25.683Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2750,
+      "matched": 36,
+      "new": 4
+    },
+    {
+      "source": "lever",
+      "fetched": 402,
+      "matched": 4,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 16,
+      "matched": 7,
+      "new": 1
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 0,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 155,
+      "matched": 37,
+      "new": 2
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:stripe:8384325",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer – Backend Engineer – Tax Engineering",
+      "location": "Seattle, WA",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8384325",
+      "postedAt": "2026-11-12T21:33:57.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:stripe:8384287",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, Full Stack",
+      "location": "New York, NY",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8384287",
+      "postedAt": "2026-11-12T21:33:50.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:stripe:8293644",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Staff Software Engineer, Code Forge",
+      "location": "San Francisco, Seattle, US-Remote",
+      "remote": true,
+      "url": "https://stripe.com/jobs/search?gh_jid=8293644",
+      "postedAt": "2026-10-16T22:34:23.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:robinhood:8384669",
+      "source": "greenhouse",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Trump Accounts",
+      "location": "Menlo Park, CA; New York, NY",
+      "remote": false,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8384669?t=gh_src=&gh_jid=8384669",
+      "postedAt": "2026-11-13T00:34:27.000Z",
+      "tags": []
+    },
+    {
+      "id": "remotive:2091137",
+      "source": "remotive",
+      "company": "Lemon.io",
+      "title": "Senior Data Engineer",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "remote": true,
+      "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
+      "postedAt": "2026-11-11T18:39:59.000Z",
+      "tags": [
+        ".net",
+        "android",
+        "apache",
+        "aws",
+        "azure",
+        "c",
+        "c#",
+        "c++",
+        "data science",
+        "fullstack",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "magento",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "sql",
+        "swift",
+        "ui/ux",
+        "wordpress",
+        "blockchain",
+        "ai/ml",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "unity",
+        "electron",
+        "spring",
+        "data analysis",
+        "laravel",
+        "ethereum",
+        "graphic design",
+        "typescript",
+        "angular",
+        "gcp",
+        "firebase",
+        "snowflake",
+        "site reliability",
+        "symfony",
+        "next.js",
+        "infrastructure",
+        "flutter"
+      ]
+    },
+    {
+      "id": "hn:50481529",
+      "source": "hn",
+      "company": "Elm AI",
+      "title": "Forward-Deployed Product Engineer",
+      "location": "New York / London (REMOTE US/Europe considered)",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50481529",
+      "postedAt": "2026-11-13T10:43:35.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50484305",
+      "source": "hn",
+      "company": "*Confidential Healthcare AI Startup",
+      "title": "Senior Full Stack Engineer (Frontend-Leaning)",
+      "location": "NYC / Hybrid (3 days onsite)",
+      "remote": false,
+      "url": "https://news.ycombinator.com/item?id=50484305",
+      "postedAt": "2026-11-13T14:47:49.000Z",
+      "tags": []
+    }
+  ]
+}
