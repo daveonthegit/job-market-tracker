@@ -1,28 +1,25 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-11-13**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-14**. Do not edit by hand._
 
-**7 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**2 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2750 | 36 | 4 |
-| lever | 402 | 4 | 0 |
-| remotive | 16 | 7 | 1 |
-| arbeitnow | 900 | 0 | 0 |
-| hn | 155 | 37 | 2 |
+| greenhouse | 2748 | 35 | 0 |
+| lever | 405 | 4 | 0 |
+| remotive | 16 | 6 | 0 |
+| arbeitnow | 900 | 2 | 2 |
+| hn | 155 | 37 | 0 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Stripe | 3 |
-| *Confidential Healthcare AI Startup | 1 |
-| Elm AI | 1 |
-| Lemon.io | 1 |
-| Robinhood | 1 |
+| Hexa | 1 |
+| Koboldmetals | 1 |
 
 ## Top skills (last 30 days)
 
@@ -33,14 +30,14 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | ai | 13 |
 | ruby | 7 |
 | react | 6 |
-| rust | 6 |
 | typescript | 6 |
 | ml | 5 |
-| python | 5 |
+| rust | 5 |
 | java | 4 |
 | javascript | 4 |
 | next.js | 4 |
 | node | 4 |
+| python | 4 |
 | rails | 4 |
 | .net | 3 |
 | angular | 3 |
@@ -50,8 +47,8 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Company | New postings |
 | --- | --- |
-| Stripe | 14 |
-| Reddit | 12 |
+| Stripe | 13 |
+| Reddit | 11 |
 | ElevenLabs | 7 |
 | Circuithub | 6 |
 | Palantir | 4 |
@@ -59,7 +56,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | Camunda | 3 |
 | gitlab | 3 |
 | GitLab | 3 |
-| Gusto, Inc. | 3 |
+| Lemon.io | 3 |
 
 ## 30-day trend
 
@@ -67,6 +64,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-14 | 2 | 100% | — |
 | 2026-11-13 | 7 | 43% | .net |
 | 2026-11-12 | 6 | 67% | node |
 | 2026-11-11 | 2 | 100% | — |
@@ -96,4 +94,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-18 | 0 | — | — |
 | 2026-10-17 | 2 | 0% | — |
 | 2026-10-16 | 0 | — | — |
-| 2026-10-15 | 5 | 40% | python |

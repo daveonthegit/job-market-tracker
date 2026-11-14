@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T18:47:26.180Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2748,
+      "matched": 35,
+      "new": 0
+    },
+    {
+      "source": "lever",
+      "fetched": 405,
+      "matched": 4,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 16,
+      "matched": 6,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 2,
+      "new": 2
+    },
+    {
+      "source": "hn",
+      "fetched": 155,
+      "matched": 37,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "arbeitnow:remote-software-engineer-all-levels-united-kingdom-213631",
+      "source": "arbeitnow",
+      "company": "Koboldmetals",
+      "title": "Software Engineer (All Levels), United Kingdom",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/koboldmetals/remote-software-engineer-all-levels-united-kingdom-213631",
+      "postedAt": "2026-11-14T12:55:23.000Z",
+      "tags": [
+        "software engineering"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-senior-software-engineer-75803",
+      "source": "arbeitnow",
+      "company": "Hexa",
+      "title": "Senior Software Engineer",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/hexa/remote-senior-software-engineer-75803",
+      "postedAt": "2026-11-14T00:40:17.000Z",
+      "tags": [
+        "filiz"
+      ]
+    }
+  ]
+}
