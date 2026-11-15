@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T19:25:27.544Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2750,
+      "matched": 33,
+      "new": 0
+    },
+    {
+      "source": "lever",
+      "fetched": 404,
+      "matched": 4,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 16,
+      "matched": 6,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 1,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 157,
+      "matched": 39,
+      "new": 2
+    }
+  ],
+  "postings": [
+    {
+      "id": "hn:50500910",
+      "source": "hn",
+      "company": "Early-stage Startup",
+      "title": "Software Engineer & Data Analyst",
+      "location": "REMOTE (US & US Citizen)",
+      "remote": true,
+      "url": "https://news.ycombinator.com/item?id=50500910",
+      "postedAt": "2026-11-14T21:17:20.000Z",
+      "tags": []
+    },
+    {
+      "id": "hn:50508598",
+      "source": "hn",
+      "company": "New Product",
+      "title": "Full Stack Engineer (mostly backend + API)",
+      "location": "Meet In The Bay Area / Work Remotely / Currently Employed But Wants To Moonlight, Be Overemployed, Add Hourly Compensation",
+      "remote": false,
+      "url": "https://news.ycombinator.com/item?id=50508598",
+      "postedAt": "2026-11-15T17:11:47.000Z",
+      "tags": []
+    }
+  ]
+}

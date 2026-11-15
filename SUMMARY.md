@@ -1,6 +1,6 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-11-14**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-15**. Do not edit by hand._
 
 **2 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
@@ -8,18 +8,18 @@ _Generated automatically from `data/` for **2026-11-14**. Do not edit by hand._
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2748 | 35 | 0 |
-| lever | 405 | 4 | 0 |
+| greenhouse | 2750 | 33 | 0 |
+| lever | 404 | 4 | 0 |
 | remotive | 16 | 6 | 0 |
-| arbeitnow | 900 | 2 | 2 |
-| hn | 155 | 37 | 0 |
+| arbeitnow | 900 | 1 | 0 |
+| hn | 157 | 39 | 2 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Hexa | 1 |
-| Koboldmetals | 1 |
+| Early-stage Startup | 1 |
+| New Product | 1 |
 
 ## Top skills (last 30 days)
 
@@ -64,6 +64,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-15 | 2 | 50% | — |
 | 2026-11-14 | 2 | 100% | — |
 | 2026-11-13 | 7 | 43% | .net |
 | 2026-11-12 | 6 | 67% | node |
@@ -93,4 +94,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-19 | 2 | 100% | ai |
 | 2026-10-18 | 0 | — | — |
 | 2026-10-17 | 2 | 0% | — |
-| 2026-10-16 | 0 | — | — |
