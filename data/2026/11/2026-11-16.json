@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T22:57:15.988Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2747,
+      "matched": 33,
+      "new": 1
+    },
+    {
+      "source": "lever",
+      "fetched": 405,
+      "matched": 4,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 17,
+      "matched": 7,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 0,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 158,
+      "matched": 39,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:robinhood:8385931",
+      "source": "greenhouse",
+      "company": "Robinhood",
+      "title": "Software Engineer, Backend - Government Products",
+      "location": "Menlo Park, CA; New York, NY",
+      "remote": false,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8385931?t=gh_src=&gh_jid=8385931",
+      "postedAt": "2026-11-16T18:35:06.000Z",
+      "tags": []
+    }
+  ]
+}
