@@ -1,24 +1,25 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-11-16**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-17**. Do not edit by hand._
 
-**1 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**2 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2747 | 33 | 1 |
-| lever | 405 | 4 | 0 |
-| remotive | 17 | 7 | 0 |
-| arbeitnow | 900 | 0 | 0 |
-| hn | 158 | 39 | 0 |
+| greenhouse | 2762 | 34 | 1 |
+| lever | 402 | 4 | 0 |
+| remotive | 16 | 6 | 0 |
+| arbeitnow | 900 | 1 | 1 |
+| hn | 156 | 39 | 0 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Robinhood | 1 |
+| Codat | 1 |
+| Gusto, Inc. | 1 |
 
 ## Top skills (last 30 days)
 
@@ -63,6 +64,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-17 | 2 | 50% | — |
 | 2026-11-16 | 1 | 0% | — |
 | 2026-11-15 | 2 | 50% | — |
 | 2026-11-14 | 2 | 100% | — |
@@ -92,4 +94,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-21 | 2 | 0% | — |
 | 2026-10-20 | 11 | 64% | ai |
 | 2026-10-19 | 2 | 100% | ai |
-| 2026-10-18 | 0 | — | — |
