@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T21:28:57.254Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2774,
+      "matched": 37,
+      "new": 3
+    },
+    {
+      "source": "lever",
+      "fetched": 410,
+      "matched": 4,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 16,
+      "matched": 6,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 3,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 156,
+      "matched": 39,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:vercel:6264524004",
+      "source": "greenhouse",
+      "company": "Vercel",
+      "title": "Software Engineer, Vercel Agent",
+      "location": "Hybrid - New York City",
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6264524004",
+      "postedAt": "2026-11-18T17:45:52.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:discord:8948573002",
+      "source": "greenhouse",
+      "company": "Discord",
+      "title": "Staff Software Engineer, Safety Platform",
+      "location": "San Francisco Bay Area or Remote (U.S.)",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8948573002",
+      "postedAt": "2026-11-18T21:06:55.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:discord:8945979002",
+      "source": "greenhouse",
+      "company": "Discord",
+      "title": "Staff Software Engineer, Safety Processing",
+      "location": "San Francisco Bay Area or Remote (U.S.)",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8945979002",
+      "postedAt": "2026-11-18T21:06:46.000Z",
+      "tags": []
+    }
+  ]
+}
