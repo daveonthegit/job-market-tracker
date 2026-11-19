@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T21:41:32.480Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2762,
+      "matched": 32,
+      "new": 3
+    },
+    {
+      "source": "lever",
+      "fetched": 417,
+      "matched": 4,
+      "new": 1
+    },
+    {
+      "source": "remotive",
+      "fetched": 15,
+      "matched": 6,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 1,
+      "new": 1
+    },
+    {
+      "source": "hn",
+      "fetched": 156,
+      "matched": 39,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:vercel:6150691004",
+      "source": "greenhouse",
+      "company": "Vercel",
+      "title": "Software Engineer, Runtimes",
+      "location": "Hybrid - San Francisco",
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6150691004",
+      "postedAt": "2026-11-19T20:59:20.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:gusto:8257983",
+      "source": "greenhouse",
+      "company": "Gusto, Inc.",
+      "title": "Staff Software Engineer, ML Platform",
+      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8257983",
+      "postedAt": "2026-11-19T21:14:51.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:gusto:8244949",
+      "source": "greenhouse",
+      "company": "Gusto, Inc.",
+      "title": "Staff Software Engineer, Onboarding Platform",
+      "location": "San Francisco, CA - Hybrid",
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8244949",
+      "postedAt": "2026-11-19T00:09:53.000Z",
+      "tags": []
+    },
+    {
+      "id": "lever:spotify:ced2c220-6b5c-4e74-8e06-37d50985097c",
+      "source": "lever",
+      "company": "Spotify",
+      "title": "Backend Engineer - Data Infrastructure",
+      "location": "New York, NY",
+      "remote": true,
+      "url": "https://jobs.lever.co/spotify/ced2c220-6b5c-4e74-8e06-37d50985097c",
+      "postedAt": "2026-11-05T17:27:58.804Z",
+      "tags": [
+        "platform",
+        "engineering"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-principal-software-engineer-data-lakes-26266",
+      "source": "arbeitnow",
+      "company": "Fivetran",
+      "title": "Principal Software Engineer, Data Lakes",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-principal-software-engineer-data-lakes-26266",
+      "postedAt": "2026-11-19T12:55:18.000Z",
+      "tags": [
+        "engineering department"
+      ]
+    }
+  ]
+}

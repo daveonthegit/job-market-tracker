@@ -1,24 +1,26 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-11-18**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-19**. Do not edit by hand._
 
-**3 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**5 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2774 | 37 | 3 |
-| lever | 410 | 4 | 0 |
-| remotive | 16 | 6 | 0 |
-| arbeitnow | 900 | 3 | 0 |
+| greenhouse | 2762 | 32 | 3 |
+| lever | 417 | 4 | 1 |
+| remotive | 15 | 6 | 0 |
+| arbeitnow | 900 | 1 | 1 |
 | hn | 156 | 39 | 0 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Discord | 2 |
+| Gusto, Inc. | 2 |
+| Fivetran | 1 |
+| Spotify | 1 |
 | Vercel | 1 |
 
 ## Top skills (last 30 days)
@@ -27,12 +29,12 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Skill | Postings |
 | --- | --- |
-| ai | 12 |
+| ai | 11 |
 | ruby | 7 |
 | react | 6 |
+| ml | 5 |
 | typescript | 5 |
 | javascript | 4 |
-| ml | 4 |
 | next.js | 4 |
 | node | 4 |
 | rails | 4 |
@@ -47,16 +49,16 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Company | New postings |
 | --- | --- |
-| Stripe | 13 |
-| Reddit | 10 |
+| Stripe | 11 |
+| Reddit | 9 |
 | ElevenLabs | 7 |
-| Circuithub | 6 |
-| Vercel | 5 |
-| Palantir | 4 |
+| Vercel | 6 |
+| Gusto, Inc. | 4 |
 | Robinhood | 4 |
 | Camunda | 3 |
 | Discord | 3 |
 | gitlab | 3 |
+| GitLab | 3 |
 
 ## 30-day trend
 
@@ -64,6 +66,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-19 | 5 | 40% | ml |
 | 2026-11-18 | 3 | 67% | — |
 | 2026-11-17 | 2 | 50% | — |
 | 2026-11-16 | 1 | 0% | — |
@@ -93,4 +96,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-23 | 3 | 0% | — |
 | 2026-10-22 | 5 | 60% | — |
 | 2026-10-21 | 2 | 0% | — |
-| 2026-10-20 | 11 | 64% | ai |
