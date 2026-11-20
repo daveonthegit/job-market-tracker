@@ -1,27 +1,22 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-11-19**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-20**. Do not edit by hand._
 
-**5 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**0 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2762 | 32 | 3 |
-| lever | 417 | 4 | 1 |
-| remotive | 15 | 6 | 0 |
-| arbeitnow | 900 | 1 | 1 |
-| hn | 156 | 39 | 0 |
+| greenhouse | 2777 | 29 | 0 |
+| lever | 416 | 4 | 0 |
+| remotive | 16 | 6 | 0 |
+| arbeitnow | 900 | 0 | 0 |
+| hn | 155 | 38 | 0 |
 
 ## Top companies today
 
-| Company | New postings |
-| --- | --- |
-| Gusto, Inc. | 2 |
-| Fivetran | 1 |
-| Spotify | 1 |
-| Vercel | 1 |
+_No new postings today._
 
 ## Top skills (last 30 days)
 
@@ -49,7 +44,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Company | New postings |
 | --- | --- |
-| Stripe | 11 |
+| Stripe | 10 |
 | Reddit | 9 |
 | ElevenLabs | 7 |
 | Vercel | 6 |
@@ -66,6 +61,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-20 | 0 | — | — |
 | 2026-11-19 | 5 | 40% | ml |
 | 2026-11-18 | 3 | 67% | — |
 | 2026-11-17 | 2 | 50% | — |
@@ -95,4 +91,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-24 | 2 | 100% | rust |
 | 2026-10-23 | 3 | 0% | — |
 | 2026-10-22 | 5 | 60% | — |
-| 2026-10-21 | 2 | 0% | — |
