@@ -1,22 +1,26 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-11-22**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-24**. Do not edit by hand._
 
-**0 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**4 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2776 | 26 | 0 |
-| lever | 416 | 3 | 0 |
-| remotive | 16 | 6 | 0 |
+| greenhouse | 2776 | 28 | 4 |
+| lever | 411 | 3 | 0 |
+| remotive | 15 | 6 | 0 |
 | arbeitnow | 900 | 0 | 0 |
-| hn | 154 | 37 | 0 |
+| hn | 153 | 37 | 0 |
 
 ## Top companies today
 
-_No new postings today._
+| Company | New postings |
+| --- | --- |
+| Stripe | 2 |
+| Gusto, Inc. | 1 |
+| Reddit | 1 |
 
 ## Top skills (last 30 days)
 
@@ -24,7 +28,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Skill | Postings |
 | --- | --- |
-| ai | 11 |
+| ai | 12 |
 | ruby | 8 |
 | react | 6 |
 | ml | 5 |
@@ -33,27 +37,27 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | next.js | 4 |
 | node | 4 |
 | rails | 4 |
-| rust | 4 |
 | .net | 3 |
 | angular | 3 |
 | aws | 3 |
 | c# | 3 |
 | golang | 3 |
+| java | 3 |
 
 ## Top companies (last 30 days)
 
 | Company | New postings |
 | --- | --- |
+| Stripe | 9 |
 | Reddit | 7 |
-| Stripe | 7 |
 | ElevenLabs | 6 |
 | Vercel | 6 |
+| Gusto, Inc. | 5 |
 | gitlab | 4 |
-| Gusto, Inc. | 4 |
 | Camunda | 3 |
 | Discord | 3 |
-| GitLab | 3 |
 | Lemon.io | 3 |
+| Robinhood | 3 |
 
 ## 30-day trend
 
@@ -61,6 +65,8 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-24 | 4 | 25% | ai |
+| 2026-11-23 | — | — | — |
 | 2026-11-22 | 0 | — | — |
 | 2026-11-21 | 1 | 100% | ruby |
 | 2026-11-20 | 0 | — | — |
@@ -89,5 +95,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-28 | 2 | 0% | — |
 | 2026-10-27 | 0 | — | — |
 | 2026-10-26 | 0 | — | — |
-| 2026-10-25 | 0 | — | — |
-| 2026-10-24 | 2 | 100% | rust |

@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T01:02:17.778Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2776,
+      "matched": 28,
+      "new": 4
+    },
+    {
+      "source": "lever",
+      "fetched": 411,
+      "matched": 3,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 15,
+      "matched": 6,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 0,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 153,
+      "matched": 37,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:stripe:8411988",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, Core Technology",
+      "location": "South San Francisco, CA",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8411988",
+      "postedAt": "2026-11-23T18:10:34.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:stripe:8411927",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, Data Warehouse Analytics",
+      "location": "Seattle, WA",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8411927",
+      "postedAt": "2026-11-23T17:54:07.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:reddit:8411613",
+      "source": "greenhouse",
+      "company": "Reddit",
+      "title": "Senior Software Engineer, AI & Science Platform",
+      "location": "Remote - United States",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8411613",
+      "postedAt": "2026-11-23T16:12:09.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:gusto:8247588",
+      "source": "greenhouse",
+      "company": "Gusto, Inc.",
+      "title": "Staff Software Engineer, Retirement Engineering",
+      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8247588",
+      "postedAt": "2026-11-23T05:05:08.000Z",
+      "tags": []
+    }
+  ]
+}
