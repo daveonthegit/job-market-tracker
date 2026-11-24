@@ -1,16 +1,16 @@
 {
   "date": "2026-11-24",
-  "generatedAt": "2026-11-24T01:02:17.778Z",
+  "generatedAt": "2026-11-24T23:08:28.718Z",
   "sources": [
     {
       "source": "greenhouse",
-      "fetched": 2776,
-      "matched": 28,
-      "new": 4
+      "fetched": 2782,
+      "matched": 33,
+      "new": 9
     },
     {
       "source": "lever",
-      "fetched": 411,
+      "fetched": 412,
       "matched": 3,
       "new": 0
     },
@@ -23,8 +23,8 @@
     {
       "source": "arbeitnow",
       "fetched": 900,
-      "matched": 0,
-      "new": 0
+      "matched": 3,
+      "new": 3
     },
     {
       "source": "hn",
@@ -57,6 +57,17 @@
       "tags": []
     },
     {
+      "id": "greenhouse:stripe:8394936",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, Experimental Projects",
+      "location": "New York City",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8394936",
+      "postedAt": "2026-11-24T16:32:21.000Z",
+      "tags": []
+    },
+    {
       "id": "greenhouse:reddit:8411613",
       "source": "greenhouse",
       "company": "Reddit",
@@ -65,6 +76,50 @@
       "remote": true,
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8411613",
       "postedAt": "2026-11-23T16:12:09.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:robinhood:7950769",
+      "source": "greenhouse",
+      "company": "Robinhood",
+      "title": "Senior Full Stack Engineer, Credit Cards & Banking",
+      "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+      "remote": false,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7950769?t=gh_src=&gh_jid=7950769",
+      "postedAt": "2026-11-24T01:04:52.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:robinhood:8355584",
+      "source": "greenhouse",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Full Stack, Government Products",
+      "location": "Menlo Park, CA; New York, NY",
+      "remote": false,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8355584?t=gh_src=&gh_jid=8355584",
+      "postedAt": "2026-11-24T22:43:56.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:robinhood:8355591",
+      "source": "greenhouse",
+      "company": "Robinhood",
+      "title": "Software Engineer, Full Stack, Government Products",
+      "location": "Menlo Park, CA; New York, NY",
+      "remote": false,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8355591?t=gh_src=&gh_jid=8355591",
+      "postedAt": "2026-11-24T22:44:39.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:gusto:8394504",
+      "source": "greenhouse",
+      "company": "Gusto, Inc.",
+      "title": "Staff Software Engineer, Agent and Partner Experiences",
+      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8394504",
+      "postedAt": "2026-11-24T01:27:31.000Z",
       "tags": []
     },
     {
@@ -77,6 +132,45 @@
       "url": "https://job-boards.greenhouse.io/gusto/jobs/8247588",
       "postedAt": "2026-11-23T05:05:08.000Z",
       "tags": []
+    },
+    {
+      "id": "arbeitnow:remote-frontend-software-engineer-120939",
+      "source": "arbeitnow",
+      "company": "Newsweek",
+      "title": "Frontend Software Engineer",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-frontend-software-engineer-120939",
+      "postedAt": "2026-11-24T21:55:17.000Z",
+      "tags": [
+        "it"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-backend-software-engineer-206351",
+      "source": "arbeitnow",
+      "company": "Newsweek",
+      "title": "Backend Software Engineer",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-backend-software-engineer-206351",
+      "postedAt": "2026-11-24T21:55:17.000Z",
+      "tags": [
+        "it"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-software-engineer-core-180673",
+      "source": "arbeitnow",
+      "company": "Constructor",
+      "title": "Software Engineer: Core",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-software-engineer-core-180673",
+      "postedAt": "2026-11-24T12:40:17.000Z",
+      "tags": [
+        "engineering"
+      ]
     }
   ]
 }

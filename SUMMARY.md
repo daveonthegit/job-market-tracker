@@ -2,24 +2,27 @@
 
 _Generated automatically from `data/` for **2026-11-24**. Do not edit by hand._
 
-**4 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**12 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2776 | 28 | 4 |
-| lever | 411 | 3 | 0 |
+| greenhouse | 2782 | 33 | 9 |
+| lever | 412 | 3 | 0 |
 | remotive | 15 | 6 | 0 |
-| arbeitnow | 900 | 0 | 0 |
+| arbeitnow | 900 | 3 | 3 |
 | hn | 153 | 37 | 0 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Stripe | 2 |
-| Gusto, Inc. | 1 |
+| Robinhood | 3 |
+| Stripe | 3 |
+| Gusto, Inc. | 2 |
+| Newsweek | 2 |
+| Constructor | 1 |
 | Reddit | 1 |
 
 ## Top skills (last 30 days)
@@ -48,16 +51,16 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Company | New postings |
 | --- | --- |
-| Stripe | 9 |
+| Stripe | 10 |
 | Reddit | 7 |
 | ElevenLabs | 6 |
+| Gusto, Inc. | 6 |
+| Robinhood | 6 |
 | Vercel | 6 |
-| Gusto, Inc. | 5 |
 | gitlab | 4 |
 | Camunda | 3 |
 | Discord | 3 |
 | Lemon.io | 3 |
-| Robinhood | 3 |
 
 ## 30-day trend
 
@@ -65,7 +68,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
-| 2026-11-24 | 4 | 25% | ai |
+| 2026-11-24 | 12 | 33% | ai |
 | 2026-11-23 | — | — | — |
 | 2026-11-22 | 0 | — | — |
 | 2026-11-21 | 1 | 100% | ruby |
