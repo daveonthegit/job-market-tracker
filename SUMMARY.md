@@ -1,29 +1,29 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-11-24**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-25**. Do not edit by hand._
 
-**12 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**6 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2782 | 33 | 9 |
-| lever | 412 | 3 | 0 |
-| remotive | 15 | 6 | 0 |
-| arbeitnow | 900 | 3 | 3 |
-| hn | 153 | 37 | 0 |
+| greenhouse | 2797 | 36 | 3 |
+| lever | 416 | 3 | 0 |
+| remotive | 16 | 7 | 1 |
+| arbeitnow | 900 | 5 | 2 |
+| hn | 152 | 37 | 0 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Robinhood | 3 |
-| Stripe | 3 |
-| Gusto, Inc. | 2 |
-| Newsweek | 2 |
-| Constructor | 1 |
+| dataiku | 1 |
 | Reddit | 1 |
+| Robinhood | 1 |
+| Steward Web Development | 1 |
+| Stripe | 1 |
+| Uniti | 1 |
 
 ## Top skills (last 30 days)
 
@@ -51,11 +51,11 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Company | New postings |
 | --- | --- |
-| Stripe | 10 |
-| Reddit | 7 |
+| Stripe | 11 |
+| Reddit | 8 |
+| Robinhood | 7 |
 | ElevenLabs | 6 |
 | Gusto, Inc. | 6 |
-| Robinhood | 6 |
 | Vercel | 6 |
 | gitlab | 4 |
 | Camunda | 3 |
@@ -68,6 +68,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-25 | 6 | 33% | — |
 | 2026-11-24 | 12 | 33% | ai |
 | 2026-11-23 | — | — | — |
 | 2026-11-22 | 0 | — | — |
@@ -97,4 +98,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-29 | 5 | 60% | .net |
 | 2026-10-28 | 2 | 0% | — |
 | 2026-10-27 | 0 | — | — |
-| 2026-10-26 | 0 | — | — |

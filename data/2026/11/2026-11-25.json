@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T22:38:16.156Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2797,
+      "matched": 36,
+      "new": 3
+    },
+    {
+      "source": "lever",
+      "fetched": 416,
+      "matched": 3,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 16,
+      "matched": 7,
+      "new": 1
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 5,
+      "new": 2
+    },
+    {
+      "source": "hn",
+      "fetched": 152,
+      "matched": 37,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:stripe:8417797",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Staff Software Engineer, Batch Compute",
+      "location": "Seattle",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8417797",
+      "postedAt": "2026-11-25T18:51:00.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:reddit:8415553",
+      "source": "greenhouse",
+      "company": "Reddit",
+      "title": "Software Engineer, Ads",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8415553",
+      "postedAt": "2026-11-25T17:58:23.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:robinhood:8355577",
+      "source": "greenhouse",
+      "company": "Robinhood",
+      "title": "Software Engineer, Web, Government Products",
+      "location": "Menlo Park, CA; New York, NY",
+      "remote": false,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8355577?t=gh_src=&gh_jid=8355577",
+      "postedAt": "2026-11-25T20:42:07.000Z",
+      "tags": []
+    },
+    {
+      "id": "remotive:2091179",
+      "source": "remotive",
+      "company": "Steward Web Development",
+      "title": "WordPress Theme & Plugin Developer",
+      "location": "Americas, LATAM, Canada, USA timezones",
+      "remote": true,
+      "url": "https://remotive.com/remote-jobs/software-development/wordpress-theme-plugin-developer-2091179",
+      "postedAt": "2026-11-24T10:31:32.000Z",
+      "tags": [
+        "fullstack",
+        "wordpress",
+        "oop",
+        "themes"
+      ]
+    },
+    {
+      "id": "arbeitnow:remote-fullstack-software-engineer-core-engineering-469912",
+      "source": "arbeitnow",
+      "company": "dataiku",
+      "title": "Fullstack Software Engineer - Core Engineering",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-469912",
+      "postedAt": "2026-11-25T15:55:24.000Z",
+      "tags": [
+        "engineering"
+      ]
+    },
+    {
+      "id": "arbeitnow:staff-principal-product-engineer-new-york-city-or-london-404014",
+      "source": "arbeitnow",
+      "company": "Uniti",
+      "title": "Staff/Principal Product Engineer",
+      "location": "New York City or London",
+      "remote": false,
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/uniti/staff-principal-product-engineer-new-york-city-or-london-404014",
+      "postedAt": "2026-11-25T15:40:21.000Z",
+      "tags": [
+        "engineering & product"
+      ]
+    }
+  ]
+}
