@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T22:28:19.745Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2794,
+      "matched": 37,
+      "new": 1
+    },
+    {
+      "source": "lever",
+      "fetched": 417,
+      "matched": 3,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 16,
+      "matched": 7,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 0,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 152,
+      "matched": 37,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:discord:8958889002",
+      "source": "greenhouse",
+      "company": "Discord",
+      "title": "Senior Software Engineer, Enterprise Platform",
+      "location": "San Francisco Bay Area or Remote (West Coast)",
+      "remote": true,
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8958889002",
+      "postedAt": "2026-11-26T00:39:44.000Z",
+      "tags": []
+    }
+  ]
+}

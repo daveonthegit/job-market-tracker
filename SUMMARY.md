@@ -1,29 +1,24 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-11-25**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-26**. Do not edit by hand._
 
-**6 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**1 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2797 | 36 | 3 |
-| lever | 416 | 3 | 0 |
-| remotive | 16 | 7 | 1 |
-| arbeitnow | 900 | 5 | 2 |
+| greenhouse | 2794 | 37 | 1 |
+| lever | 417 | 3 | 0 |
+| remotive | 16 | 7 | 0 |
+| arbeitnow | 900 | 0 | 0 |
 | hn | 152 | 37 | 0 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| dataiku | 1 |
-| Reddit | 1 |
-| Robinhood | 1 |
-| Steward Web Development | 1 |
-| Stripe | 1 |
-| Uniti | 1 |
+| Discord | 1 |
 
 ## Top skills (last 30 days)
 
@@ -57,9 +52,9 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | ElevenLabs | 6 |
 | Gusto, Inc. | 6 |
 | Vercel | 6 |
+| Discord | 4 |
 | gitlab | 4 |
 | Camunda | 3 |
-| Discord | 3 |
 | Lemon.io | 3 |
 
 ## 30-day trend
@@ -68,6 +63,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-26 | 1 | 100% | — |
 | 2026-11-25 | 6 | 33% | — |
 | 2026-11-24 | 12 | 33% | ai |
 | 2026-11-23 | — | — | — |
@@ -97,4 +93,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-30 | 2 | 100% | ruby |
 | 2026-10-29 | 5 | 60% | .net |
 | 2026-10-28 | 2 | 0% | — |
-| 2026-10-27 | 0 | — | — |
