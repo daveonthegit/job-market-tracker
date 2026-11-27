@@ -1,24 +1,24 @@
 # Job market summary
 
-_Generated automatically from `data/` for **2026-11-26**. Do not edit by hand._
+_Generated automatically from `data/` for **2026-11-27**. Do not edit by hand._
 
-**1 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
+**3 new postings** today matched the search criteria in [`config/criteria.json`](config/criteria.json) and had not been seen on any earlier day.
 
 ## Sources today
 
 | Source | Fetched | Matched criteria | New |
 | --- | --- | --- | --- |
-| greenhouse | 2794 | 37 | 1 |
-| lever | 417 | 3 | 0 |
-| remotive | 16 | 7 | 0 |
+| greenhouse | 2800 | 41 | 3 |
+| lever | 418 | 3 | 0 |
+| remotive | 17 | 6 | 0 |
 | arbeitnow | 900 | 0 | 0 |
-| hn | 152 | 37 | 0 |
+| hn | 151 | 37 | 0 |
 
 ## Top companies today
 
 | Company | New postings |
 | --- | --- |
-| Discord | 1 |
+| Stripe | 3 |
 
 ## Top skills (last 30 days)
 
@@ -46,7 +46,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Company | New postings |
 | --- | --- |
-| Stripe | 11 |
+| Stripe | 12 |
 | Reddit | 8 |
 | Robinhood | 7 |
 | ElevenLabs | 6 |
@@ -63,6 +63,7 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 
 | Date | New postings | Remote | Top skill |
 | --- | --- | --- | --- |
+| 2026-11-27 | 3 | 0% | — |
 | 2026-11-26 | 1 | 100% | — |
 | 2026-11-25 | 6 | 33% | — |
 | 2026-11-24 | 12 | 33% | ai |
@@ -92,4 +93,3 @@ Mentions in posting titles and source tags (descriptions are not fetched).
 | 2026-10-31 | 3 | 100% | ai |
 | 2026-10-30 | 2 | 100% | ruby |
 | 2026-10-29 | 5 | 60% | .net |
-| 2026-10-28 | 2 | 0% | — |

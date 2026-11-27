@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T22:09:52.289Z",
+  "sources": [
+    {
+      "source": "greenhouse",
+      "fetched": 2800,
+      "matched": 41,
+      "new": 3
+    },
+    {
+      "source": "lever",
+      "fetched": 418,
+      "matched": 3,
+      "new": 0
+    },
+    {
+      "source": "remotive",
+      "fetched": 17,
+      "matched": 6,
+      "new": 0
+    },
+    {
+      "source": "arbeitnow",
+      "fetched": 900,
+      "matched": 0,
+      "new": 0
+    },
+    {
+      "source": "hn",
+      "fetched": 151,
+      "matched": 37,
+      "new": 0
+    }
+  ],
+  "postings": [
+    {
+      "id": "greenhouse:stripe:8421387",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, Backend",
+      "location": "South San Francisco, CA",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8421387",
+      "postedAt": "2026-11-27T19:57:35.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:stripe:8421000",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, Full Stack Atlas",
+      "location": "South San Francisco, CA",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8421000",
+      "postedAt": "2026-11-27T16:39:02.000Z",
+      "tags": []
+    },
+    {
+      "id": "greenhouse:stripe:8421367",
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, Reporting Platform",
+      "location": "New York, NY",
+      "remote": false,
+      "url": "https://stripe.com/jobs/search?gh_jid=8421367",
+      "postedAt": "2026-11-27T19:44:36.000Z",
+      "tags": []
+    }
+  ]
+}
